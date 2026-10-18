@@ -13,11 +13,12 @@ Prospect database and operating rules for Kazinga outreach by Tiph Ltd (company 
 | `compliance/legitimate-interest.md` | UK/EU GDPR legitimate interest assessment for B2B prospecting |
 | `compliance/privacy-notice-section.md` | Added to tiph.agency/privacy-policy on branch privacy-business-contacts (18 Oct 2026); live once merged |
 | `config/ramp.md` | Daily send limits by week, pacing and stop rules |
+| `config/status.md` | Current state: live and paused markets, ramp week, pauses, scheduled tasks. Read first by every run |
 | `data/companies.csv` | One row per company researched |
 | `data/contacts.csv` | One row per address we may email (always tied to a company) |
 | `data/messages.csv` | Every email: draft, approved, sent, bounced, replied |
 | `data/suppression.csv` | Permanent do-not-contact list (addresses and domains). Checked before every draft |
-| `batches/` | One file per batch with the full text of each email, for Ratif's approval |
+| `batches/` | One file per batch with the full text of each email, for Ratif's approval, plus `<batch>.send.json` with the exact HTML the send run sends once approved |
 
 ## Data rules
 
