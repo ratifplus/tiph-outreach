@@ -1,0 +1,10 @@
+value,reason,added_at,notes
+international@angliafreight.co.uk,bounced_hard,2026-10-07,550 5.4.1 recipient rejected
+*.de,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.at,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.it,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.es,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.pl,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.dk,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.cn,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md
+*.kr,excluded_market,2026-10-18,consent required for B2B email; see compliance/jurisdictions.md

@@ -1,0 +1,43 @@
+contact_id,company_id,name,role,email,email_type,email_source_url,language,added_at,status
+CH-transfreight-1,CH-transfreight,Attila Francz,,francz.attila@transfreight.ch,named,,de,2026-10-07,active
+CH-tisa-1,CH-tisa,Beat Nef,,beat.nef@tisa.ch,named,,de,2026-10-07,active
+CH-log-ag-1,CH-log-ag,Rolf Sperisen,,r.sperisen@log-ag.swiss,named,,de,2026-10-07,active
+CH-cippa-1,CH-cippa,Angelo Betto,,info@cippatrasporti.ch,role,,it,2026-10-07,active
+CH-cargocare-1,CH-cargocare,Sascha Negretti,,sascha.negretti@cargocare.ch,named,,de,2026-10-07,active
+CH-crossfreight-1,CH-crossfreight,Roland Pfister,,roland.pfister@crossfreight-logistics.com,named,,de,2026-10-07,active
+CH-mueller-gysin-1,CH-mueller-gysin,Thomas Baumann,,info@muellergysin.ch,role,,de,2026-10-07,active
+GB-baxter-1,GB-baxter,Peter Isler,Managing Director,hello@baxterfreight.com,role,,en,2026-10-07,active
+GB-westmond-1,GB-westmond,,Managing Director,info@westmond.com,role,,en,2026-10-07,active
+GB-interspan-1,GB-interspan,Philip Bamborough,Director,philip@interspan.co.uk,named,,en,2026-10-07,active
+GB-wkwat-1,GB-wkwat,,,sales@wkwat.co.uk,role,,en,2026-10-07,active
+GB-anglia-1,GB-anglia,,,international@angliafreight.co.uk,role,,en,2026-10-07,bounced
+GB-jenkar-1,GB-jenkar,Andrew Phillips,Joint MD,info@jenkar.com,role,,en,2026-10-07,active
+GB-kenny-fisher-1,GB-kenny-fisher,,,kfs@kennyfishershipping.co.uk,role,,en,2026-10-07,active
+GB-kinnes-1,GB-kinnes,Andrew Whittick,MD,forwarding@kinnes-shipping.co.uk,role,,en,2026-10-07,active
+GB-interglobal-1,GB-interglobal,,,sales@interglobal-forwarding.com,role,,en,2026-10-07,active
+GB-surefreight-1,GB-surefreight,,,sales@sfinternational.co.uk,role,,en,2026-10-07,active
+GB-glenn-1,GB-glenn,,,info@glennfreight.co.uk,role,,en,2026-10-10,active
+GB-jager-1,GB-jager,,,sales@jagerfreight.co.uk,role,,en,2026-10-10,active
+GB-boast-1,GB-boast,,,enquiries@boast.co.uk,role,,en,2026-10-10,active
+GB-lbfreight-1,GB-lbfreight,,,sales@lbfreight.co.uk,role,,en,2026-10-10,active
+GB-mercator-1,GB-mercator,,,sales@mercatorcargo.co.uk,role,,en,2026-10-10,active
+GB-klfreight-1,GB-klfreight,,,sales@klfreight.com,role,,en,2026-10-10,active
+GB-flexitrans-1,GB-flexitrans,,,sales@flexitrans.co.uk,role,,en,2026-10-10,active
+GB-atanak-1,GB-atanak,,,sales@atanak.com,role,,en,2026-10-10,active
+GB-intl-forwarding-1,GB-intl-forwarding,,,enquiries@internationalforwarding.co.uk,role,,en,2026-10-10,active
+GB-weell-1,GB-weell,,,sales@weell.co.uk,role,,en,2026-10-10,active
+US-oceanair-1,US-oceanair,Matt Kaplan,CEO,solutions@oceanair.net,role,https://oceanair.net/contact-us/,en,2026-10-18,active
+US-shapiro-1,US-shapiro,Margie Shapiro,CEO,web@shapiro.com,role,https://www.shapiro.com/contact-us/,en,2026-10-18,active
+US-mtalines-1,US-mtalines,Tom Lazzaro,President,sales@mtalines.com,role,https://mtalines.com/mta-opens-new-los-angeles-office/,en,2026-10-18,active
+US-aif-1,US-aif,,,contact@aif-usa.com,role,https://www.aif-usa.com/contact-us,en,2026-10-18,active
+US-westernoverseas-1,US-westernoverseas,,,contactus@westernoverseas.com,role,https://www.westernoverseas.com/contact,en,2026-10-18,active
+US-magno-1,US-magno,Margaret Barradas,President,marketing@magnointl.com,role,https://www.magnointl.com/news/press-center/magno-international-invests-in-expanded-ground-transportation-to-strengthen-end-to-end-logistics/,en,2026-10-18,active
+US-bdg-1,US-bdg,Lisa Victoria Waller,President,InsideSales@bdginternational.com,role,https://www.bdginternational.com/contact-us/,en,2026-10-18,active
+US-sealink-1,US-sealink,,,info@sea-link.com,role,https://www.sea-link.com,en,2026-10-18,active
+US-jade-1,US-jade,,,hello@jadeintl.com,role,https://jadeintl.com/,en,2026-10-18,active
+US-rogersbrown-1,US-rogersbrown,Raymond Kelley,President,sales@rogers-brown.com,role,https://www.rogers-brown.com/,en,2026-10-18,active
+US-gallagher-1,US-gallagher,,,info@gallaghertransport.com,role,https://gallaghertransport.com/gallagher-transport/,en,2026-10-18,active
+US-cargoic-1,US-cargoic,Michelle Fajardo,President,info@cargoic.com,role,https://cargoic.com,en,2026-10-18,active
+US-eaf-1,US-eaf,,,info@eafusa.com,role,https://expressairfreight.com/contact-us/,en,2026-10-18,active
+US-rlswearer-1,US-rlswearer,Chas Watson,President,Sales@rlswearer.com,role,https://www.rlswearer.com/contact.html,en,2026-10-18,active
+US-atlantacb-1,US-atlantacb,Deborah Torma,President,ship@atlantacustomsbrokers.com,role,https://www.atlantacustomsbrokers.com/,en,2026-10-18,active

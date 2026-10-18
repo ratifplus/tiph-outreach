@@ -1,0 +1,43 @@
+company_id,name,country,city,website,segment,size_note,source,source_url,hook,researched_at,status,notes
+CH-transfreight,Transfreight AG,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-tisa,TISA,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-log-ag,LOG AG,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-cippa,Cippà Trasporti SA,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-cargocare,Cargocare,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-crossfreight,Crossfreight Logistics,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+CH-mueller-gysin,Müller-Gysin AG,CH,,,,,Swiss wave 1 research,,,2026-10-07,contacted,Swiss wave 1
+GB-baxter,Baxter Freight Ltd,GB,Nottingham,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-westmond,Westmond Logistics Ltd,GB,Bangor NI,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-interspan,Interspan Global Logistics Ltd,GB,Walsall,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-wkwat,W. Knight Watson & Co Ltd,GB,Grangemouth,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-anglia,Anglia Freight Ltd,GB,Eye,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-jenkar,Jenkar Shipping Ltd,GB,Wakefield,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-kenny-fisher,Kenny Fisher Shipping Ltd,GB,Southport,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-kinnes,Kinnes Shipping Ltd,GB,Dundee,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-interglobal,Inter Global Forwarding Ltd,GB,Gateshead,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-surefreight,Surefreight (International) Ltd,GB,Bradford,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-glenn,Glenn Freight Services,GB,Crawley,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-jager,Jager Freight,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-boast,Boast,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-lbfreight,LB Freight,GB,Halifax,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-mercator,Mercator Cargo,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-klfreight,KL Freight,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-flexitrans,Flexitrans,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-atanak,Atanak,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-intl-forwarding,International Forwarding,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+GB-weell,Weell,GB,,,,,UK waves (BIFA directory),,,2026-10-07,contacted,
+US-oceanair,"OCEANAIR, Inc.",US,"Peabody, MA",oceanair.net,"air/ocean forwarding, customs",51-200,company website,https://oceanair.net/about-us/locations/chicago-il/,"Opened sixth office, Itasca IL, March 2026",2026-10-18,new,
+US-shapiro,Samuel Shapiro & Company,US,"Baltimore, MD",shapiro.com,"air/ocean forwarding, customs",~150,company website,https://www.shapiro.com/wp-content/uploads/Domestic-Specialist-2026.pdf,Hiring Domestic Specialist 2026 handling quotes,2026-10-18,new,
+US-mtalines,MTA Lines (Midwest Transatlantic Lines),US,"Berea, OH",mtalines.com,"air/ocean forwarding, customs","51-200, ESOP",company website,https://mtalines.com/mta-opens-new-los-angeles-office/,Inglewood CA office Dec 2025; Saratoga Forwarding joined Sep 2025,2026-10-18,new,
+US-aif,Advanced International Freight,US,"Secaucus, NJ",aif-usa.com,"air/ocean forwarding, customs",unknown,company website,https://www.aif-usa.com/post/aif-now-supports-fulfilled-by-tiktok-fbt,"Supports Fulfilled by TikTok, 19 Feb 2026",2026-10-18,new,
+US-westernoverseas,Western Overseas Corporation,US,"Cypress, CA",westernoverseas.com,"air/ocean forwarding, customs","125+, 23 offices",company website,https://www.westernoverseas.com,Moving to CargoWise NEO; 50 years customs article Jun 2026,2026-10-18,new,
+US-magno,Magno International LP,US,"Houston, TX",magnointl.com,"air/ocean forwarding, customs",10-49,company website,same as email source,"Ground transport expansion, Mar 2026",2026-10-18,new,
+US-bdg,BDG International,US,"Elgin, IL",bdginternational.com,"air/ocean forwarding, customs",10-49,company website,https://www.bdginternational.com/requesting-ieepa-refunds-refund-filing-has-begun/,"IEEPA refund filing note, 21 Apr 2026",2026-10-18,new,
+US-sealink,Sealink International,US,"Plano, TX",sea-link.com,"air/ocean forwarding, customs","unknown, possibly >300",company website,https://www.sea-link.com/announcement/welcoming-omar-shamsie-as-managing-director-of-sealinks-new-toronto-office,"Toronto office, MD Omar Shamsie, 3 Apr 2026",2026-10-18,new,
+US-jade,Jade International,US,"Folcroft, PA",jadeintl.com,"air/ocean forwarding, customs",~27,company website,https://jadeintl.com/jade-international-expands-warehouse-operations/,"Warehouse +8,500 sq ft to 40,000, 23 Oct 2025",2026-10-18,new,
+US-rogersbrown,Rogers & Brown Custom Brokers,US,"Ladson, SC",rogers-brown.com,"air/ocean forwarding, customs",100+,company website,https://www.rogers-brown.com/news/faq-page-supreme-court-ruling-ieepa-tariffs-refund-guidance/,IEEPA refund FAQ 25 Feb 2026; pricing specialist on team,2026-10-18,new,
+US-gallagher,Gallagher Transport International,US,"Denver, CO",gallaghertransport.com,"air/ocean forwarding, customs","11-50, 6 offices",company website,https://gallaghertransport.com/ieepa-tariff-refunds-next-steps-keeping-you-informed-client-alert/,Acquisitions 2022-23; IEEPA client alert 9 Mar 2026,2026-10-18,new,
+US-cargoic,Cargo International Consolidators,US,"Miami, FL",cargoic.com,"air/ocean forwarding, customs",20+,company website,https://fcbf.com/board,Caribbean/Central America consolidation; FCBF president,2026-10-18,new,
+US-eaf,Express Air Freight Unlimited,US,"Jamaica, NY",expressairfreight.com,"air/ocean forwarding, customs","100-200 est, 11 offices",company website,https://expressairfreight.com/news/30th-anniversay/,"Family-run since 1990, 11 offices",2026-10-18,new,
+US-rlswearer,R.L. Swearer Company,US,"Coraopolis, PA",rlswearer.com,"air/ocean forwarding, customs",35,company website,https://www.trade.gov/success-story/pittsburgh-freight-forwarder-and-dec-member-wins-presidents-e-award,President's E Award for Export Service 2024,2026-10-18,new,
+US-atlantacb,Atlanta Customs Brokers & International Freight Forwarders,US,"Atlanta, GA",atlantacustomsbrokers.com,"air/ocean forwarding, customs",10-49,company website,https://www.atlantacustomsbrokers.com/,40 years 1985-2025; moved to Aviation Parkway,2026-10-18,new,

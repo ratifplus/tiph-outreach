@@ -1,0 +1,50 @@
+message_id,contact_id,kind,subject,batch_id,status,zoho_message_id,sent_at,outcome,notes
+CH-transfreight-1-m1,CH-transfreight-1,initial,Schnellere Offerten trotz Einzelkalkulation,2026-10-07-ch,sent,1791353533781013500,2026-10-07,none,
+CH-transfreight-1-m2,CH-transfreight-1,followup,Re: Schnellere Offerten trotz Einzelkalkulation,2026-10-14-ch-fu,draft,1791960928438010900,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-tisa-1-m1,CH-tisa-1,initial,Schnellere Offerten an acht Standorten,2026-10-07-ch,sent,1791353639717013500,2026-10-07,none,
+CH-tisa-1-m2,CH-tisa-1,followup,Re: Schnellere Offerten an acht Standorten,2026-10-14-ch-fu,draft,1791960932466002100,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-log-ag-1-m1,CH-log-ag-1,initial,"Mehr Offerten am selben Tag, auch beim Wachstum",2026-10-07-ch,sent,1791353694653013500,2026-10-07,none,
+CH-log-ag-1-m2,CH-log-ag-1,followup,"Re: Mehr Offerten am selben Tag, auch beim Wachstum",2026-10-14-ch-fu,draft,1791960936745010900,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-cippa-1-m1,CH-cippa-1,initial,"Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-10-07-ch,sent,1791353719192013500,2026-10-07,none,
+CH-cippa-1-m2,CH-cippa-1,followup,"Re: Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-10-14-ch-fu,draft,1791960940931013400,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-cargocare-1-m1,CH-cargocare-1,initial,"Sieben Formulare, schnellere Offerten",2026-10-07-ch,sent,1791353773558013500,2026-10-07,none,
+CH-cargocare-1-m2,CH-cargocare-1,followup,"Re: Sieben Formulare, schnellere Offerten",2026-10-14-ch-fu,draft,1791960956192010900,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-crossfreight-1-m1,CH-crossfreight-1,initial,Mehr Zeit für Projektladungen,2026-10-07-ch,sent,1791353822830013500,2026-10-07,none,
+CH-crossfreight-1-m2,CH-crossfreight-1,followup,Re: Mehr Zeit für Projektladungen,2026-10-14-ch-fu,draft,1791960958712002100,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+CH-mueller-gysin-1-m1,CH-mueller-gysin-1,initial,z. Hd. Herrn Thomas Baumann: schnellere Offerten,2026-10-07-ch,sent,1791353887406013500,2026-10-07,none,
+CH-mueller-gysin-1-m2,CH-mueller-gysin-1,followup,Re: z. Hd. Herrn Thomas Baumann: schnellere Offerten,2026-10-14-ch-fu,draft,1791960961450010900,,none,"Follow-up draft in Zoho Drafts since 14 Oct, not sent"
+GB-baxter-1-m1,GB-baxter-1,initial,Baxter Freight quoting capacity,2026-10-07-gb,bounced,,2026-10-07,bounced,"Not delivered: Zoho blocked our sender (5.1.8) during the outgoing block. Address itself OK, retry allowed later"
+GB-westmond-1-m1,GB-westmond-1,initial,Westmond freight quote response times,2026-10-07-gb,sent,,2026-10-07,none,
+GB-interspan-1-m1,GB-interspan-1,initial,Quote preparation at Interspan,2026-10-07-gb,sent,,2026-10-07,none,
+GB-wkwat-1-m1,GB-wkwat-1,initial,W. Knight Watson quote workflow,2026-10-07-gb,sent,,2026-10-07,none,
+GB-anglia-1-m1,GB-anglia-1,initial,Anglia Freight international quotes,2026-10-07-gb,bounced,,2026-10-07,bounced,Hard bounce: recipient rejected by Microsoft 365 (550 5.4.1 access denied)
+GB-jenkar-1-m1,GB-jenkar-1,initial,Jenkar quote response times,2026-10-07-gb,sent,,2026-10-07,none,
+GB-kenny-fisher-1-m1,GB-kenny-fisher-1,initial,Quote preparation at Kenny Fisher Shipping,2026-10-07-gb,sent,,2026-10-07,none,
+GB-kinnes-1-m1,GB-kinnes-1,initial,Kinnes forwarding quote workflow,2026-10-07-gb,sent,,2026-10-07,none,
+GB-interglobal-1-m1,GB-interglobal-1,initial,Following up on Inter Global quote requests,2026-10-07-gb,sent,,2026-10-07,none,
+GB-surefreight-1-m1,GB-surefreight-1,initial,Surefreight quoting across four offices,2026-10-07-gb,sent,,2026-10-07,none,
+GB-glenn-1-m1,GB-glenn-1,initial,Air and sea in the same reply,2026-10-10-gb,bounced,,2026-10-10,bounced,Not delivered: Zoho blocked our sender (5.1.8). Retry allowed later
+GB-jager-1-m1,GB-jager-1,initial,"More Baltic enquiries, same team",2026-10-10-gb,sent,,2026-10-10,none,
+GB-boast-1-m1,GB-boast-1,initial,The missing detail before the price,2026-10-10-gb,sent,,2026-10-10,none,
+GB-lbfreight-1-m1,GB-lbfreight-1,initial,From checked details to a ready quote,2026-10-10-gb,sent,,2026-10-10,none,
+GB-mercator-1-m1,GB-mercator-1,initial,"Three countries, one quote thread",2026-10-10-gb,sent,,2026-10-10,none,
+GB-klfreight-1-m1,GB-klfreight-1,initial,From part load to express van,2026-10-10-gb,sent,,2026-10-10,none,Auto-reply received from a staff member
+GB-flexitrans-1-m1,GB-flexitrans-1,initial,When the dimensions are missing,2026-10-10-gb,sent,,2026-10-10,none,
+GB-atanak-1-m1,GB-atanak-1,initial,"A UK–Türkiye quote, before the chase",2026-10-10-gb,sent,,2026-10-10,none,
+GB-intl-forwarding-1-m1,GB-intl-forwarding-1,initial,Protect the one-hour quote promise,2026-10-10-gb,bounced,,2026-10-10,bounced,Not delivered: Zoho blocked our sender (5.1.8). Retry allowed later
+GB-weell-1-m1,GB-weell-1,initial,Can the quote desk speak Polish?,2026-10-10-gb,sent,,2026-10-10,none,Auto-replies from 4 staff
+US-oceanair-1-m1,US-oceanair-1,initial,For Matt Kaplan: quotes for the new Itasca office,2026-10-19-us,draft,,,none,
+US-shapiro-1-m1,US-shapiro-1,initial,For Margie Shapiro: the quoting side of the domestic desk,2026-10-19-us,draft,,,none,
+US-mtalines-1-m1,US-mtalines-1,initial,For Tom Lazzaro: one quoting pace from Cleveland to LAX,2026-10-19-us,draft,,,none,
+US-aif-1-m1,US-aif-1,initial,"More channels, more rate requests",2026-10-19-us,draft,,,none,
+US-westernoverseas-1-m1,US-westernoverseas-1,initial,Quoting alongside the CargoWise NEO move,2026-10-19-us,draft,,,none,
+US-magno-1-m1,US-magno-1,initial,For Margaret Barradas: quotes to match the ground expansion,2026-10-19-us,draft,,,none,
+US-bdg-1-m1,US-bdg-1,initial,For Lisa Waller: quotes while the IEEPA refunds run,2026-10-19-us,draft,,,none,
+US-sealink-1-m1,US-sealink-1,initial,Quoting from Plano and the new Toronto office,2026-10-19-us,draft,,,none,
+US-jade-1-m1,US-jade-1,initial,"40,000 square feet and a busier quote desk",2026-10-19-us,draft,,,none,
+US-rogersbrown-1-m1,US-rogersbrown-1,initial,For Raymond Kelley: freeing the pricing desk,2026-10-19-us,draft,,,none,
+US-gallagher-1-m1,US-gallagher-1,initial,"Six offices, one quoting standard",2026-10-19-us,draft,,,none,
+US-cargoic-1-m1,US-cargoic-1,initial,For Michelle Fajardo: Caribbean quotes in Spanish and English,2026-10-19-us,draft,,,none,
+US-eaf-1-m1,US-eaf-1,initial,Eleven offices and one stream of rate requests,2026-10-19-us,draft,,,none,
+US-rlswearer-1-m1,US-rlswearer-1,initial,For Chas Watson: more time for exporters,2026-10-19-us,draft,,,none,
+US-atlantacb-1-m1,US-atlantacb-1,initial,"For Deborah Torma: 40 years, and faster quotes",2026-10-19-us,draft,,,none,
