@@ -34,6 +34,8 @@ Move up a week only if the previous week had: bounces under 3%, zero spam compla
 - Hard bounces above 3% of the day's sends, or 2 hard bounces in a row.
 - Any spam complaint or abuse report.
 
+The Zoho outgoing blocks of 7 and 10 Oct 2026 were cleared by Ratif on 18 Oct 2026. Only notices received after that count.
+
 ## Hygiene before a send
 
 - Address published on the company's own site or official directory (source URL recorded).

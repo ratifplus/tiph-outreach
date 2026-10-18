@@ -8,11 +8,11 @@ Zoho Mail, account ID 8170900000000002002 (hello@tiph.agency), Sent folder 81709
 
 ## Product claims (only these)
 
-Kazinga reads rate requests in German, French, Italian and English; prices from the forwarder's own tariff and margin; drafts the reply in the customer's language; a person checks and sends every quote; data stored in the EU and encrypted per company; Tiph cannot read a company's data. Kazinga is new: never mention or imply existing customers or results. Calls are held in English. Outside the EU, UK and Switzerland, leave out where data is stored: say only that the data is encrypted and that Tiph cannot read it (Ratif, 18 Oct 2026).
+Kazinga reads rate requests in German, French, Italian and English; prices from the forwarder's own tariff and margin; drafts the reply in the customer's language; a person checks and sends every quote; data stored in the EU and encrypted per company; Tiph cannot read a company's data. Kazinga is new: never mention or imply existing customers or results. Calls are held in English. Data line (Ratif, 18 Oct 2026): for EU, UK and Swiss recipients write "Your data is stored in the EU and encrypted, and Tiph cannot read it." Everywhere else leave out where it is stored and say only that it is encrypted and Tiph cannot read it.
 
 ## Style
 
-Short, business first, polite. Recipient's language (German with "ss", never "ß"; Swiss: "Freundliche Grüsse"). No em dashes. Never the construction "not X but Y". One researched hook in the first line that shows we looked at their company. Offer a 20-minute demo in English. Sign-off: Ratif Ssemujju, Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom, Company No. 17199579, hello@tiph.agency, https://tiph.agency/products/kazinga. Plus the source line, opt-out line and privacy link per `jurisdictions.md`.
+Short, business first, polite. Recipient's language (German with "ss", never "ß"; Swiss: "Freundliche Grüsse"). No em dashes. Never the construction "not X but Y". One researched hook in the first line that shows we looked at their company. Offer a 20-minute demo in English. Sign-off: Ratif Ssemujju, Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom, Company No. 17199579, hello@tiph.agency, https://tiph.agency/products/kazinga. The body ends on the demo ask. Below the signature, a small footer holds the source line, an Unsubscribe link (mailto:hello@tiph.agency?subject=Unsubscribe) and the privacy link, per `jurisdictions.md` (Ratif, 18 Oct 2026).
 
 ## Cycle
 
@@ -41,9 +41,9 @@ Short, business first, polite. Recipient's language (German with "ss", never "ß
 ### 5. Replies (every weekday)
 - Check the inbox for replies and bounces from every domain in `data/contacts.csv` with status active.
 - Sort: demo/call, question, not interested, out of office (return date), bounce, forwarded, other.
-- Not interested or stop: no reply, add to suppression, close company. Bounce: mark contact bounced, add to suppression if hard.
+- Not interested or stop (including an email with subject "Unsubscribe" from the footer link): no reply, add to suppression, close company. Bounce: mark contact bounced, add to suppression if hard.
 - Demo or question: draft a reply in Zoho (mode draft) in their language and ask Ratif to approve.
-- Follow-up: 7 days after the first email, if no reply and no hold, write one follow-up (3 to 4 sentences, refer to the first email, repeat the demo offer, same easy no). It goes through the same approve step.
+- Follow-up: 7 days after the first email, if no reply and no hold, write one follow-up (3 to 4 sentences, refer to the first email, repeat the demo offer, same footer). It goes through the same approve step.
 
 ### 6. Report
 Only when something happened: replies, bounces, a batch ready for approval, a stop rule. Lead with what needs Ratif's decision.

@@ -6,9 +6,9 @@ Working rules for cold B2B email from Tiph Ltd. This is an operating summary, no
 
 - Sender identified: Ratif Ssemujju, Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom, Company No. 17199579.
 - Honest subject line, no "Re:" or "Fwd:" tricks on first contact.
-- One sentence saying where we found the address (e.g. "I found your address on your website").
-- Easy opt-out in plain words ("If this isn't relevant, just reply 'no' and I won't write again"). Honour it immediately and add to `data/suppression.csv`.
-- Link to https://tiph.agency/privacy-policy for EU/UK/CH recipients.
+- One sentence saying where we found the address (e.g. "I found your address on your website"), in the footer below the signature.
+- An Unsubscribe link in the footer (mailto:hello@tiph.agency?subject=Unsubscribe), kept out of the main body so the email ends on the demo ask (Ratif, 18 Oct 2026). Treat an Unsubscribe email or any reply asking us to stop as an opt-out: honour it immediately and add to `data/suppression.csv`.
+- Link to https://tiph.agency/privacy-policy in the footer (required for EU/UK/CH recipients).
 - Only addresses the company publishes itself. No guessed addresses (no firstname@ guessing).
 - Each email individually researched and written. No mail merge.
 - At most one follow-up, then stop unless they reply.
