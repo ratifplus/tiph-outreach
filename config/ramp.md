@@ -24,7 +24,7 @@ Move up a week only if the previous week had: bounces under 3%, zero spam compla
 - At least 6 minutes between any two sends, randomised (6 to 14 minutes).
 - Only inside the recipient's office hours, 08:30 to 16:30 local time.
 - Send windows (UTC, adjust for daylight saving): APAC 00:00 to 07:00, Europe/UK 07:30 to 15:30, USA 13:30 to 21:00.
-- Never more than 2 emails in a row to the same country or the same email provider domain.
+- Never more than 2 emails in a row to the same country or the same email provider domain. Exception (Ratif, 18 Oct 2026): while only one market is live, the country limit does not apply. Once two or more markets are live, mix them through each day so we can compare which markets respond.
 - Never two contacts at the same company on the same day.
 
 ## Stop rules (pause all sending and alert Ratif)
