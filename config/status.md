@@ -10,6 +10,8 @@ Current state of the outreach. Every send run and reply check reads this first. 
 - Ramp week last reviewed: 2026-10-19
 - Stop-rule baseline: only Zoho notices and bounces received after 2026-10-18 count (earlier blocks cleared by Ratif on 18 Oct 2026)
 - Active send batch: 2026-10-19-us (15 approved 19 Oct 2026; send file batches/2026-10-19-us.send.json)
-- Send task: scheduled task "Kazinga send run" (trig_014G2vg9rHQAvuWfzDVoGt5z), weekdays 09:45, 11:45 and 13:45 New York time. It disables itself when nothing approved is left; re-enable it after approving a new batch, and add fire times for any new market's office hours.
-- Reply check: scheduled task "Kazinga outreach replies" (trig_01JPvBn1nJoasWabdMT5CUxr), weekdays 08:52 Berlin time
+- Outreach task: scheduled task "Kazinga send run" (trig_014G2vg9rHQAvuWfzDVoGt5z), weekdays 09:45, 11:45 and 13:45 New York time. The only outreach task since 20 Oct 2026: every run checks the inbox (replies, opt-outs, bounces), writes follow-ups once a weekday, and sends at most one approved email. It stays on when no approved emails are left. Add fire times for any new market's office hours.
+- Old reply-check task "Kazinga outreach replies" (trig_01JPvBn1nJoasWabdMT5CUxr): stopped by Ratif on 20 Oct 2026; its duties moved into the task above.
+- Inbox checked up to: 2026-10-20T08:35Z (checked by hand on 20 Oct: no replies, bounces or unsubscribes since 19 Oct)
+- Follow-ups last checked: 2026-10-19 (first US follow-ups due from Mon 26 Oct)
 - Waiting on Ratif: Swiss follow-ups (7 Zoho drafts from 14 Oct; to be rewritten with the footer before sending), UK retries (Baxter, Glenn, International Forwarding). Zoho Drafts also holds 14 untracked UK drafts from 9 and 10 Oct: never send them.
