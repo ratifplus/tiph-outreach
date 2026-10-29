@@ -1,0 +1,33 @@
+{
+  "batch_id": "2026-10-29-us-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "US-jade-1-m2",
+      "contact_id": "US-jade-1",
+      "company": "Jade International, Folcroft PA",
+      "to": "hello@jadeintl.com",
+      "subject": "Re: 40,000 square feet and a busier quote desk",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "Barracuda",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Jade's larger warehouse and the extra rate requests that tend to come with it. Kazinga reads those requests, prices them from your own tariffs and margin, and drafts a reply that your team checks and sends.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo this week or next be useful?</p><p style=\"margin:0 0 14px 0\">Best regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1792684028667013400"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "US-rogersbrown-1-m2",
+      "contact_id": "US-rogersbrown-1",
+      "company": "Rogers & Brown Custom Brokers, Ladson SC",
+      "to": "sales@rogers-brown.com",
+      "subject": "Re: For Raymond Kelley: freeing the pricing desk",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Dear Mr Kelley,</p><p style=\"margin:0 0 14px 0\">I wrote to you last week about giving your pricing specialist more time while the tariff work continues. Kazinga reads incoming rate requests, prices them from your own tariffs and margin, and drafts the reply for your pricing specialist to check and send.</p><p style=\"margin:0 0 14px 0\">Could a 20-minute demo this week or next be worthwhile?</p><p style=\"margin:0 0 14px 0\">Best regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1792691194233001200"
+    }
+  ]
+}
