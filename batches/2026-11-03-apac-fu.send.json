@@ -1,0 +1,46 @@
+{
+  "batch_id": "2026-11-03-apac-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "AU-bullocks-1-m2",
+      "contact_id": "AU-bullocks-1",
+      "company": "Bullocks Freightmasters International, Fremantle",
+      "to": "enquiries@bullocks.net.au",
+      "subject": "Re: For Anthony Paratore: faster quotes from Fremantle",
+      "recipient_tz": "Australia/Perth",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Dear Mr Paratore,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the time your most experienced people in Fremantle spend on quotes. Kazinga reads incoming rate requests, prices them from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo this week or next be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1793072988967010900"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "SG-globalalliance-1-m2",
+      "contact_id": "SG-globalalliance-1",
+      "company": "Global Alliance Logistics, Singapore",
+      "to": "enquiry@globalalliancelog.com",
+      "subject": "Re: For Kate Wang: quotes across Singapore and Port Klang",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "own server",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Dear Ms Wang,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about keeping quotes consistent between Singapore and Port Klang. Kazinga reads incoming rate requests, prices them from your own tariffs and margin, and drafts a reply that your team checks and sends from either office.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo this week or next be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1793065648423010900"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "HK-safelink-1-m2",
+      "contact_id": "HK-safelink-1",
+      "company": "Safe-Link International Logistics, San Po Kong (Hong Kong)",
+      "to": "info@safe-link.hk",
+      "subject": "Re: Quoting your sea-air service via Dubai",
+      "recipient_tz": "Asia/Hong_Kong",
+      "mail_provider": "own server",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about quoting your sea-air service via Dubai alongside air, sea and trucking into Guangdong. Kazinga reads incoming rate requests, prices them from your own tariffs and margin, and drafts a reply that a person on your team checks and sends.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo this week or next be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1793073525232002100"
+    }
+  ]
+}
