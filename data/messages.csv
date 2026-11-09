@@ -2,7 +2,7 @@ message_id,contact_id,kind,subject,batch_id,status,zoho_message_id,sent_at,outco
 CH-transfreight-1-m1,CH-transfreight-1,initial,Schnellere Offerten trotz Einzelkalkulation,2026-10-07-ch,sent,1791353533781013500,2026-10-07,none,
 CH-transfreight-1-m2,CH-transfreight-1,followup,Re: Schnellere Offerten trotz Einzelkalkulation,2026-11-09-ch-fu,sent,1794210397509001200,2026-11-09T07:46Z,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960928438010900 from 14 Oct left untouched, never send it"
 CH-tisa-1-m1,CH-tisa-1,initial,Schnellere Offerten an acht Standorten,2026-10-07-ch,sent,1791353639717013500,2026-10-07,none,
-CH-tisa-1-m2,CH-tisa-1,followup,Re: Schnellere Offerten an acht Standorten,2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960932466002100 from 14 Oct left untouched, never send it"
+CH-tisa-1-m2,CH-tisa-1,followup,Re: Schnellere Offerten an acht Standorten,2026-11-09-ch-fu,sent,1794211220549010900,2026-11-09T08:00Z,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960932466002100 from 14 Oct left untouched, never send it"
 CH-log-ag-1-m1,CH-log-ag-1,initial,"Mehr Offerten am selben Tag, auch beim Wachstum",2026-10-07-ch,sent,1791353694653013500,2026-10-07,none,
 CH-log-ag-1-m2,CH-log-ag-1,followup,"Re: Mehr Offerten am selben Tag, auch beim Wachstum",2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960936745010900 from 14 Oct left untouched, never send it"
 CH-cippa-1-m1,CH-cippa-1,initial,"Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-10-07-ch,sent,1791353719192013500,2026-10-07,none,
