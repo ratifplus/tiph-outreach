@@ -17,7 +17,7 @@ Week 1 starts on the first send day under this plan. Working days only (Mon to F
 | 7 | 40 | 5 |
 | 8+ | 50 | 6 |
 
-Primary frequency objective (Ratif, 9 Nov 2026): hit the daily cap every working day. The send task runs hourly from 00:45 to 19:45 UTC on weekdays and sends up to the hourly cap per run, so the schedule supports up to 20 x hourly cap per day (week 4: 60 possible vs a cap of 15; week 8: 120 vs 50). The limit in practice is the approved queue: keep enough approved emails ready to fill the cap.
+Primary frequency objective (Ratif, 9 Nov 2026): hit the daily cap every working day. The send task runs every hour, around the clock, and sends up to the hourly cap per run whenever recipients are in their own working hours (Mon to Fri, 08:30 to 16:30 local). The daily cap counts per UTC date. The fixed UTC send windows above are replaced by this recipient-local rule. The limit in practice is the approved queue: keep enough approved emails ready to fill the cap.
 
 Move up a week only if the previous week had: bounces under 3%, zero spam complaints, no Zoho warning. Otherwise repeat the week.
 
