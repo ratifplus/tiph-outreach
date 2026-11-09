@@ -8,7 +8,7 @@ Zoho Mail, account ID 8170900000000002002 (hello@tiph.agency), Sent folder 81709
 
 ## Product claims (only these)
 
-Kazinga reads rate requests in German, French, Italian and English; prices from the forwarder's own tariff and margin; drafts the reply in the customer's language; a person checks and sends every quote; data stored in the EU and encrypted per company; Tiph cannot read a company's data. Kazinga is new: never mention or imply existing customers or results. Calls are held in English. Data line (Ratif, 18 Oct 2026): for EU, UK and Swiss recipients write "Your data is stored in the EU and encrypted, and Tiph cannot read it." Everywhere else leave out where it is stored and say only that it is encrypted and Tiph cannot read it.
+Kazinga uses AI (Ratif, 9 Nov 2026: say "AI" in the outreach; German "KI", Italian "IA", French "IA"). It reads rate requests in German, French, Italian and English; prices from the forwarder's own tariff and margin; drafts the reply in the customer's language; a person checks and sends every quote; data stored in the EU and encrypted per company; Tiph cannot read a company's data. Kazinga is new: never mention or imply existing customers or results. Calls are held in English. Data line (Ratif, 18 Oct 2026): for EU, UK and Swiss recipients write "Your data is stored in the EU and encrypted, and Tiph cannot read it." Everywhere else leave out where it is stored and say only that it is encrypted and Tiph cannot read it.
 
 ## Style
 
