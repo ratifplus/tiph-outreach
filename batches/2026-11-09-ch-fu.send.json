@@ -1,0 +1,98 @@
+{
+  "batch_id": "2026-11-09-ch-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "CH-transfreight-1-m2",
+      "contact_id": "CH-transfreight-1",
+      "company": "Transfreight AG, Basel",
+      "to": "francz.attila@transfreight.ch",
+      "subject": "Re: Schnellere Offerten trotz Einzelkalkulation",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:transfreight.ch",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Francz</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, weil Transfreight seit dem Kundenschreiben vom November 2025 jede Relation einzeln rechnet. Kazinga liest eingehende Preisanfragen, rechnet sie mit Ihrem eigenen Tarif und Ihrer Marge und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich in Ihrem Kundenschreiben vom November 2025 gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353533781013500"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "CH-tisa-1-m2",
+      "contact_id": "CH-tisa-1",
+      "company": "TISA, Widnau",
+      "to": "beat.nef@tisa.ch",
+      "subject": "Re: Schnellere Offerten an acht Standorten",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:tisa.ch",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Nef</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, mit Blick auf die acht Standorte von TISA und die neuen Abläufe mit Smart Border Austria. Kazinga liest eingehende Preisanfragen, rechnet sie mit Ihrem Tarif, Ihrer Marge und Ihrer Verzollungsregel und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich im Mitgliederverzeichnis von SPEDLOGSWISS gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353639717013500"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "CH-log-ag-1-m2",
+      "contact_id": "CH-log-ag-1",
+      "company": "LOG AG, Guntmadingen",
+      "to": "r.sperisen@log-ag.swiss",
+      "subject": "Re: Mehr Offerten am selben Tag, auch beim Wachstum",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:log-ag.swiss",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Sperisen</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, als LOG mit dem neuen Standort in Morsbach-Steimelhagen weiter gewachsen ist. Kazinga liest eingehende Preisanfragen, rechnet sie mit Ihrem Tarif, Ihrer Marge und Ihrer Verzollungsregel und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich auf der Teamseite von log-group.swiss gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353694653013500"
+    },
+    {
+      "n": 4,
+      "send_order": 4,
+      "message_id": "CH-cippa-1-m2",
+      "contact_id": "CH-cippa-1",
+      "company": "Cippà Trasporti SA, Chiasso",
+      "to": "info@cippatrasporti.ch",
+      "subject": "Re: Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:cippatrasporti.ch",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Buongiorno Signor Betto,</p><p style=\"margin:0 0 14px 0\">a inizio ottobre Le ho scritto a proposito di Kazinga, dopo le Sue interviste sul peso del carburante nei trasporti. Kazinga legge le richieste di offerta in arrivo, le calcola con la vostra tariffa e il vostro margine e prepara l'offerta, che il vostro team controlla e invia. I vostri dati sono conservati nell'UE e cifrati, e Tiph non può leggerli.</p><p style=\"margin:0 0 14px 0\">Avrebbe 20 minuti nelle prossime due settimane per una breve dimostrazione? La chiamata si svolge in inglese.</p><p style=\"margin:0 0 14px 0\">Cordiali saluti<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Regno Unito<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ho trovato il vostro indirizzo nell'elenco dei membri di SPEDLOGSWISS. Con il link qui sotto può annullare l'iscrizione e non La contatterò più. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Annulla l'iscrizione</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Informativa sulla privacy</a></p></div>",
+      "original_zoho_message_id": "1791353719192013500"
+    },
+    {
+      "n": 5,
+      "send_order": 5,
+      "message_id": "CH-cargocare-1-m2",
+      "contact_id": "CH-cargocare-1",
+      "company": "Cargocare Global AG, Embrach",
+      "to": "sascha.negretti@cargocare.ch",
+      "subject": "Re: Sieben Formulare, schnellere Offerten",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:cargocare.ch",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Negretti</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, weil Preisanfragen bei Cargocare über sieben Formulare und per E-Mail hereinkommen. Kazinga liest diese Anfragen an einem Ort, rechnet sie mit Ihrem eigenen Tarif und Ihrer Marge und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich auf Ihrer Kontaktseite gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353773558013500"
+    },
+    {
+      "n": 6,
+      "send_order": 6,
+      "message_id": "CH-crossfreight-1-m2",
+      "contact_id": "CH-crossfreight-1",
+      "company": "Crossfreight Logistics AG, Basel",
+      "to": "roland.pfister@crossfreight-logistics.com",
+      "subject": "Re: Mehr Zeit für Projektladungen",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:crossfreight-logistics.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Pfister</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, damit Ihre erfahrensten Leute mehr Zeit für Projektladungen haben. Kazinga liest die Standardanfragen, rechnet sie mit Ihrem eigenen Tarif und Ihrer Marge und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich in Ihrem Profil beim OOG Network gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353822830013500"
+    },
+    {
+      "n": 7,
+      "send_order": 7,
+      "message_id": "CH-mueller-gysin-1-m2",
+      "contact_id": "CH-mueller-gysin-1",
+      "company": "Müller-Gysin AG, Münchenstein",
+      "to": "info@muellergysin.ch",
+      "subject": "Re: z. Hd. Herrn Thomas Baumann: schnellere Offerten",
+      "recipient_tz": "Europe/Zurich",
+      "mail_provider": "unchecked:muellergysin.ch",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Guten Tag Herr Baumann</p><p style=\"margin:0 0 14px 0\">Anfang Oktober habe ich Ihnen zu Kazinga geschrieben, weil beim MG Sprinter Service mit Abholung innert 1 bis 3 Stunden auch die Offerte schnell kommen muss. Kazinga liest eingehende Preisanfragen, rechnet sie mit Ihrem eigenen Tarif und Ihrer Marge und bereitet die Offerte vor, die Ihr Team prüft und versendet. Ihre Daten werden in der EU gespeichert und verschlüsselt, und Tiph kann sie nicht lesen.</p><p style=\"margin:0 0 14px 0\">Hätten Sie in den nächsten zwei Wochen 20 Minuten für eine kurze Vorführung? Das Gespräch führe ich auf Englisch.</p><p style=\"margin:0 0 14px 0\">Freundliche Grüsse<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, Vereinigtes Königreich<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">Ihre Adresse habe ich auf Ihrer Website gefunden. Mit dem Link unten melden Sie sich ab, und ich schreibe Ihnen nicht wieder. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Abmelden</a> <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Datenschutzerklärung</a></p></div>",
+      "original_zoho_message_id": "1791353887406013500"
+    }
+  ]
+}
