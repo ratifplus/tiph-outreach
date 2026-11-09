@@ -1,18 +1,18 @@
 message_id,contact_id,kind,subject,batch_id,status,zoho_message_id,sent_at,outcome,notes
 CH-transfreight-1-m1,CH-transfreight-1,initial,Schnellere Offerten trotz Einzelkalkulation,2026-10-07-ch,sent,1791353533781013500,2026-10-07,none,
-CH-transfreight-1-m2,CH-transfreight-1,followup,Re: Schnellere Offerten trotz Einzelkalkulation,2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960928438010900 from 14 Oct left untouched, never send it"
+CH-transfreight-1-m2,CH-transfreight-1,followup,Re: Schnellere Offerten trotz Einzelkalkulation,2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960928438010900 from 14 Oct left untouched, never send it"
 CH-tisa-1-m1,CH-tisa-1,initial,Schnellere Offerten an acht Standorten,2026-10-07-ch,sent,1791353639717013500,2026-10-07,none,
-CH-tisa-1-m2,CH-tisa-1,followup,Re: Schnellere Offerten an acht Standorten,2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960932466002100 from 14 Oct left untouched, never send it"
+CH-tisa-1-m2,CH-tisa-1,followup,Re: Schnellere Offerten an acht Standorten,2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960932466002100 from 14 Oct left untouched, never send it"
 CH-log-ag-1-m1,CH-log-ag-1,initial,"Mehr Offerten am selben Tag, auch beim Wachstum",2026-10-07-ch,sent,1791353694653013500,2026-10-07,none,
-CH-log-ag-1-m2,CH-log-ag-1,followup,"Re: Mehr Offerten am selben Tag, auch beim Wachstum",2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960936745010900 from 14 Oct left untouched, never send it"
+CH-log-ag-1-m2,CH-log-ag-1,followup,"Re: Mehr Offerten am selben Tag, auch beim Wachstum",2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960936745010900 from 14 Oct left untouched, never send it"
 CH-cippa-1-m1,CH-cippa-1,initial,"Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-10-07-ch,sent,1791353719192013500,2026-10-07,none,
-CH-cippa-1-m2,CH-cippa-1,followup,"Re: Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960940931013400 from 14 Oct left untouched, never send it"
+CH-cippa-1-m2,CH-cippa-1,followup,"Re: Alla c.a. di Angelo Betto: offerte più rapide, con lo stesso team",2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960940931013400 from 14 Oct left untouched, never send it"
 CH-cargocare-1-m1,CH-cargocare-1,initial,"Sieben Formulare, schnellere Offerten",2026-10-07-ch,sent,1791353773558013500,2026-10-07,none,
-CH-cargocare-1-m2,CH-cargocare-1,followup,"Re: Sieben Formulare, schnellere Offerten",2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960956192010900 from 14 Oct left untouched, never send it"
+CH-cargocare-1-m2,CH-cargocare-1,followup,"Re: Sieben Formulare, schnellere Offerten",2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960956192010900 from 14 Oct left untouched, never send it"
 CH-crossfreight-1-m1,CH-crossfreight-1,initial,Mehr Zeit für Projektladungen,2026-10-07-ch,sent,1791353822830013500,2026-10-07,none,
-CH-crossfreight-1-m2,CH-crossfreight-1,followup,Re: Mehr Zeit für Projektladungen,2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960958712002100 from 14 Oct left untouched, never send it"
+CH-crossfreight-1-m2,CH-crossfreight-1,followup,Re: Mehr Zeit für Projektladungen,2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960958712002100 from 14 Oct left untouched, never send it"
 CH-mueller-gysin-1-m1,CH-mueller-gysin-1,initial,z. Hd. Herrn Thomas Baumann: schnellere Offerten,2026-10-07-ch,sent,1791353887406013500,2026-10-07,none,
-CH-mueller-gysin-1-m2,CH-mueller-gysin-1,followup,Re: z. Hd. Herrn Thomas Baumann: schnellere Offerten,2026-11-09-ch-fu,draft,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960961450010900 from 14 Oct left untouched, never send it"
+CH-mueller-gysin-1-m2,CH-mueller-gysin-1,followup,Re: z. Hd. Herrn Thomas Baumann: schnellere Offerten,2026-11-09-ch-fu,approved,,,none,"Rewritten 9 Nov 2026 with footer (batch 2026-11-09-ch-fu); old Zoho draft 1791960961450010900 from 14 Oct left untouched, never send it"
 GB-baxter-1-m1,GB-baxter-1,initial,Baxter Freight quoting capacity,2026-10-07-gb,bounced,,2026-10-07,bounced,"Not delivered: Zoho blocked our sender (5.1.8) during the outgoing block. Address itself OK, retry allowed later"
 GB-westmond-1-m1,GB-westmond-1,initial,Westmond freight quote response times,2026-10-07-gb,sent,,2026-10-07,none,
 GB-interspan-1-m1,GB-interspan-1,initial,Quote preparation at Interspan,2026-10-07-gb,sent,,2026-10-07,none,
@@ -77,6 +77,6 @@ HK-safelink-1-m2,HK-safelink-1,followup,Re: Quoting your sea-air service via Dub
 AU-freightmart-1-m2,AU-freightmart-1,followup,Re: From the Market Snapshot to the quote,2026-11-04-apac-fu,sent,1794188840102002100,2026-11-09T01:47Z,none,
 SG-baylink-1-m2,SG-baylink-1,followup,"Re: Urgent cargo, faster quotes",2026-11-04-apac-fu,sent,1794196011572013400,2026-11-09T03:46Z,none,
 AU-flashfreight-1-m2,AU-flashfreight-1,followup,"Re: Quoting sea, air and oversize from Mona Vale",2026-11-06-au-fu,approved,,,none,
-GB-baxter-1-m1b,GB-baxter-1,initial,Baxter Freight quoting capacity,2026-11-09-gb,draft,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
-GB-glenn-1-m1b,GB-glenn-1,initial,Air and sea in the same reply,2026-11-09-gb,draft,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
-GB-intl-forwarding-1-m1b,GB-intl-forwarding-1,initial,Keeping the one-hour quote promise,2026-11-09-gb,draft,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
+GB-baxter-1-m1b,GB-baxter-1,initial,Baxter Freight quoting capacity,2026-11-09-gb,approved,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
+GB-glenn-1-m1b,GB-glenn-1,initial,Air and sea in the same reply,2026-11-09-gb,approved,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
+GB-intl-forwarding-1-m1b,GB-intl-forwarding-1,initial,Keeping the one-hour quote promise,2026-11-09-gb,approved,,,none,"Retry: first email of Oct bounced (5.1.8 Sender Address Blocked), never delivered"
