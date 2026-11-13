@@ -1,0 +1,91 @@
+{
+  "batch_id": "2026-11-13-mixed",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "SG-megaton-1-m1",
+      "contact_id": "SG-megaton-1",
+      "company": "Megaton Shipping Pte Ltd, Singapore",
+      "to": "sales@megaton.com.sg",
+      "subject": "Breakbulk Asia on 18 and 19 November",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">I saw that Megaton Shipping is exhibiting at Breakbulk Asia in Singapore on 18 and 19 November, on stand B22. Project moves to Mongolia and Central Asia sit alongside the air, sea and cross-border trucking requests your team prices every day.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "AU-loynes-1-m1",
+      "contact_id": "AU-loynes-1",
+      "company": "L.C. Loynes & Associates, Brisbane",
+      "to": "loynes@loynes.com.au",
+      "subject": "Customs Broker of the Year finalist",
+      "recipient_tz": "Australia/Brisbane",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Congratulations on being named a finalist for Customs Broker of the Year in the 2026 DCN awards, in the year Loynes marks 50 years. Alongside customs work, your Brisbane team prices sea, air and project freight, and I imagine those requests take up a good part of the day.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "GB-elite-universal-1-m1",
+      "contact_id": "GB-elite-universal-1",
+      "company": "Elite Universal Forwarding (Logistics) Limited, Felixstowe",
+      "to": "enquiries@eliteuniversal.co.uk",
+      "subject": "Your move to Verso Waves",
+      "recipient_tz": "Europe/London",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">I read in Freight Business Journal that Elite Universal has moved onto Verso Waves to bring your activity onto one system. With that side settled, I wondered how your Felixstowe team handles the rate requests that come in for ocean, air and European road freight.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 4,
+      "send_order": 4,
+      "message_id": "AU-cable-intl-1-m1",
+      "contact_id": "AU-cable-intl-1",
+      "company": "Cable International Pty Ltd, Sydney",
+      "to": "info@cableinternational.com.au",
+      "subject": "Cable International and Neutral Air Partner",
+      "recipient_tz": "Australia/Sydney",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">I read that Cable International joined Neutral Air Partner in July, with a focus on growing air imports from the US and Asia and cross-trade between Asia, North America and Europe. More lanes usually means more rate requests for your Sydney team to price.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 5,
+      "send_order": 5,
+      "message_id": "SG-go-gauge-1-m1",
+      "contact_id": "SG-go-gauge-1",
+      "company": "Go Gauge Projects Pte Ltd, Singapore",
+      "to": "projects@gogauge.co",
+      "subject": "Breakbulk Asia, stand D42",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "Mailanyone",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">I saw that Go Gauge is exhibiting at Breakbulk Asia in Singapore on 18 and 19 November, on stand D42. Alongside the project and heavy-lift work, your team also prices ocean and air freight requests every day.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 6,
+      "send_order": 6,
+      "message_id": "AU-freight-world-1-m1",
+      "contact_id": "AU-freight-world-1",
+      "company": "Freight-World Corporation Pty Ltd, Sydney (Botany); also Melbourne",
+      "to": "ratequotes@freight-world.com.au",
+      "subject": "Your Grand Prix cargo move",
+      "recipient_tz": "Australia/Sydney",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">I read the Conqueror network's June piece on the time-critical cargo Freight-World flew in from the Middle East for the Melbourne Grand Prix. I also noticed you publish a dedicated address for rate quotes, so pricing is clearly a big part of your team's day.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    },
+    {
+      "n": 7,
+      "send_order": 7,
+      "message_id": "AU-ees-shipping-1-m1",
+      "contact_id": "AU-ees-shipping-1",
+      "company": "EES Shipping Pty Ltd, Perth (Cockburn Central)",
+      "to": "info@eescair.com",
+      "subject": "EES Shipping at 40",
+      "recipient_tz": "Australia/Perth",
+      "mail_provider": "Microsoft 365",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Congratulations on EES Shipping's 40th anniversary this year, which Brian Hack spoke about in his Daily Cargo News interview in March. He named technology as a focus for the family business, so I thought this might be of interest to your Perth team.</p><p style=\"margin:0 0 14px 0\">We are Tiph, a software company in London, and we built Kazinga for the quoting side of a forwarder's day. It uses AI to read incoming rate requests, then prices them from your own tariffs and margin, and drafts the reply. Your team checks every quote and sends it. Your data is encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">We can also set Kazinga up to quote each customer from their own past quotes and orders, as a customisation aimed at raising the value of each account.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>"
+    }
+  ]
+}
