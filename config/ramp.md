@@ -2,7 +2,9 @@
 
 One mailbox: hello@tiph.agency (Zoho, EU). Zoho limits outside mail on a rolling one-hour window (50 to 500 per hour, depending on reputation) and does not allow bursts. We stay far below that.
 
-## Daily cap (all emails, first contacts and follow-ups together)
+## Daily cap for new outreach (first emails only)
+
+Ratif, 14 Nov 2026: the ramp caps below limit new outreach (first emails) only. Follow-ups do not count toward them; they have their own limits in "Follow-up limits" below. Replies to people who wrote to us are never capped.
 
 Week 1 starts on the first send day under this plan. Working days only (Mon to Fri in the recipient's time zone).
 
@@ -16,6 +18,16 @@ Week 1 starts on the first send day under this plan. Working days only (Mon to F
 | 6 | 30 | 4 |
 | 7 | 40 | 5 |
 | 8+ | 50 | 6 |
+
+## Follow-up limits (separate from the ramp caps, Ratif 14 Nov 2026)
+
+Follow-ups are single replies in the thread of our own first email, sent 7 or more days later, so their number per day is about the number of first emails sent a week earlier. They still leave the same Zoho mailbox, and Zoho judges all outgoing mail together (hourly volume, bursts, bounces, complaints), so they get their own limits instead of none:
+
+- Follow-up daily cap: the same number as the current week's first-email daily cap (week 4: 15, week 5: 20, and so on). This only matters when follow-ups pile up (for example after a pause).
+- Follow-up hourly cap: the same number as the current week's first-email hourly cap.
+- Combined ceiling for all mail from hello@tiph.agency: at most 2 x the week's daily cap per UTC day and 2 x the hourly cap per hour, far below Zoho's 50 to 500 per hour.
+- Pacing, office hours, country and provider rotation, suppression and stop rules apply to follow-ups exactly as to first emails. Any stop rule pauses both.
+- Ramp review on Mondays counts bounces and complaints from all sends (first emails and follow-ups).
 
 Primary frequency objective (Ratif, 9 Nov 2026): hit the daily cap every working day. The send task runs every hour, around the clock, and sends up to the hourly cap per run whenever recipients are in their own working hours (Mon to Fri, 08:30 to 16:30 local). The daily cap counts per UTC date. The fixed UTC send windows above are replaced by this recipient-local rule. The limit in practice is the approved queue: keep enough approved emails ready to fill the cap.
 
