@@ -1,0 +1,46 @@
+{
+ "batch_id": "2026-11-16-gb-fu",
+ "from": "hello@tiph.agency",
+ "mailFormat": "html",
+ "emails": [
+  {
+   "n": 1,
+   "send_order": 1,
+   "message_id": "GB-baxter-1-m2",
+   "contact_id": "GB-baxter-1",
+   "company": "Baxter Freight Ltd, Nottingham",
+   "to": "hello@baxterfreight.com",
+   "subject": "Re: Baxter Freight quoting capacity",
+   "recipient_tz": "Europe/London",
+   "mail_provider": "unchecked:baxterfreight.com",
+   "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Dear Peter,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and how Baxter Freight's quote desk could turn each new rate request into a consistent, checked quote. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+   "original_zoho_message_id": "1794213981997002100"
+  },
+  {
+   "n": 2,
+   "send_order": 2,
+   "message_id": "GB-glenn-1-m2",
+   "contact_id": "GB-glenn-1",
+   "company": "Glenn Freight Services Ltd, Crawley",
+   "to": "info@glennfreight.co.uk",
+   "subject": "Re: Air and sea in the same reply",
+   "recipient_tz": "Europe/London",
+   "mail_provider": "unchecked:glennfreight.co.uk",
+   "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the requests where Glenn Freight's customers want air and sea options side by side. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+   "original_zoho_message_id": "1794217612007001200"
+  },
+  {
+   "n": 3,
+   "send_order": 3,
+   "message_id": "GB-intl-forwarding-1-m2",
+   "contact_id": "GB-intl-forwarding-1",
+   "company": "International Forwarding Ltd, Coleshill",
+   "to": "enquiries@internationalforwarding.co.uk",
+   "subject": "Re: Keeping the one-hour quote promise",
+   "recipient_tz": "Europe/London",
+   "mail_provider": "unchecked:internationalforwarding.co.uk",
+   "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the one-hour quotation promise on your quote form. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+   "original_zoho_message_id": "1794218559854001200"
+  }
+ ]
+}
