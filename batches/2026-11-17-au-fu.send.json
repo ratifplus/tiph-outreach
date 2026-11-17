@@ -1,0 +1,46 @@
+{
+  "batch_id": "2026-11-17-au-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "AU-century-customs-1-m2",
+      "contact_id": "AU-century-customs-1",
+      "company": "Century Customs & Freight (Century Freight), Caringbah, NSW",
+      "to": "info@centuryfreight.com.au",
+      "subject": "Re: A note for Century's quote desk",
+      "recipient_tz": "Australia/Sydney",
+      "mail_provider": "unchecked:centuryfreight.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the rate requests that reach the quote desk at Century Customs &amp; Freight. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794275732638002100"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "AU-vision-intl-1-m2",
+      "contact_id": "AU-vision-intl-1",
+      "company": "Vision International Logistics, Pinkenba, QLD",
+      "to": "enquiries@vision.com.au",
+      "subject": "Re: Corpse flower pollen and everyday quotes",
+      "recipient_tz": "Australia/Brisbane",
+      "mail_provider": "unchecked:vision.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the steady run of rate requests your team prices at Vision International. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794289599381010900"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "AU-lochm-fraser-1-m2",
+      "contact_id": "AU-lochm-fraser-1",
+      "company": "Loch M Fraser Logistics (LochM Fraser), Tullamarine, VIC",
+      "to": "info@lochm.com.au",
+      "subject": "Re: Keeping new surcharges in every quote",
+      "recipient_tz": "Australia/Melbourne",
+      "mail_provider": "unchecked:lochm.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and making sure changes like your new heavy weight surcharges reach every quote at LochM Fraser. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794347343846002100"
+    }
+  ]
+}
