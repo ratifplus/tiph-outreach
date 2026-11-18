@@ -2,7 +2,7 @@
 
 Current state of the outreach. Every send run and reply check reads this first. Update it whenever something changes, and commit the change.
 
-- Sending paused: yes (stop rule: 1 hard bounce of 18 sends today = 5.6%, above the 3% daily limit; AU-harders-1-m1 to RFischer@harders.com.au rejected by Microsoft 365, 550 5.4.1 Recipient address rejected: Access denied, 17 Nov 2026 03:49Z; not a sender block or blocklist. Paused 2026-11-17 04:5xZ by the send task; Ratif to resume)
+- Sending paused: no (resumed by Ratif in chat, 18 Nov 2026 06:5xZ: "Resume". Previous pause: stop rule: 1 hard bounce of 18 sends today = 5.6%, above the 3% daily limit; AU-harders-1-m1 to RFischer@harders.com.au rejected by Microsoft 365, 550 5.4.1 Recipient address rejected: Access denied, 17 Nov 2026 03:49Z; not a sender block or blocklist. Paused 2026-11-17 04:5xZ by the send task; Ratif to resume)
 - Live markets (sending allowed): US, AU, SG, HK, UK, CH (APAC live from 26 Oct 2026, approved by Ratif on 24 Oct; UK and CH live from 9 Nov 2026, approved by Ratif in chat "send them, all is good", after the privacy policy's "Business-to-business outreach" section was confirmed live; CH max 5 sends per day)
 - Paused markets: EU opt-out markets (not yet started)
 - Privacy section live on tiph.agency: yes (checked 9 Nov 2026: "Business-to-business outreach" under "3. Data We Collect" at https://tiph.agency/privacy-policy, covering sources, legitimate interest and opt-out)
