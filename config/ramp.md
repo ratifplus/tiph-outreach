@@ -31,7 +31,7 @@ Follow-ups are single replies in the thread of our own first email, sent 7 or mo
 
 Primary frequency objective (Ratif, 9 Nov 2026): hit the daily cap every working day. The send task runs every hour, around the clock, and sends up to the hourly cap per run whenever recipients are in their own working hours (Mon to Fri, 08:30 to 16:30 local). The daily cap counts per UTC date. The fixed UTC send windows above are replaced by this recipient-local rule. The limit in practice is the approved queue: keep enough approved emails ready to fill the cap.
 
-Move up a week only if the previous week had: bounces under 3%, zero spam complaints, no Zoho warning. Otherwise repeat the week.
+Move up a week only if the previous week had: zero spam complaints, no Zoho warning and no sender-block/blocklist bounce. Otherwise repeat the week. Recipient hard bounces do not count against the ramp (Ratif, 18 Nov 2026).
 
 ## Pacing
 
@@ -45,7 +45,7 @@ Move up a week only if the previous week had: bounces under 3%, zero spam compla
 
 - Any Zoho "Email Outgoing Blocked" or policy notice.
 - Any bounce saying "Sender Address Blocked" or naming a blocklist (Spamhaus, Barracuda, etc.).
-- Hard bounces above 3% of the day's sends, or 2 hard bounces in a row.
+- (Removed by Ratif, 18 Nov 2026: "Bouncing shouldn't impact sends ... Let the schedules just continue always".) Recipient hard bounces (bad or rejected addresses) never pause sending and never hold back the ramp. They are only recorded: message and contact bounced, address suppressed. Was: hard bounces above 3% of the day's sends, or 2 hard bounces in a row.
 - Any spam complaint or abuse report.
 
 The Zoho outgoing blocks of 7 and 10 Oct 2026 were cleared by Ratif on 18 Oct 2026. Only notices received after that count.
