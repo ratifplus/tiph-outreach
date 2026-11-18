@@ -1,0 +1,72 @@
+{
+  "batch_id": "2026-11-18-au-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "AU-cyclone-1-m2",
+      "contact_id": "AU-cyclone-1",
+      "company": "Cyclone Global Logistics, Botany, NSW",
+      "to": "sydney@cycloneglobal.com",
+      "subject": "Re: After the Austorient acquisition",
+      "recipient_tz": "Australia/Sydney",
+      "mail_provider": "unchecked:cycloneglobal.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and pricing rate requests consistently across the combined Cyclone and Austorient customer base. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794358043736002100"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "AU-freightplus-1-m2",
+      "contact_id": "AU-freightplus-1",
+      "company": "Freightplus (Australia) Pty Ltd, Brisbane, QLD",
+      "to": "mail@freightplus.com",
+      "subject": "Re: 26 years on from Taren Point",
+      "recipient_tz": "Australia/Brisbane",
+      "mail_provider": "unchecked:freightplus.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello John,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and answering routine rate requests quickly alongside the heavy and project cargo work at Freightplus. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794359045779013400"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "AU-ifc-1-m2",
+      "contact_id": "AU-ifc-1",
+      "company": "IFC Global Logistics Pty Ltd, Altona, VIC",
+      "to": "info@ifc.com.au",
+      "subject": "Re: Congratulations on IFC's 35 years",
+      "recipient_tz": "Australia/Melbourne",
+      "mail_provider": "unchecked:ifc.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the volume of requests to price across IFC's forwarding, customs and distribution work. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794368913677010900"
+    },
+    {
+      "n": 4,
+      "send_order": 4,
+      "message_id": "AU-gavos-1-m2",
+      "contact_id": "AU-gavos-1",
+      "company": "Gavos Freight Solutions Pty Ltd, Westmeadows, VIC",
+      "to": "customs@gfs.net.au",
+      "subject": "Re: Customs Broker of the Year, and quoting",
+      "recipient_tz": "Australia/Melbourne",
+      "mail_provider": "unchecked:gfs.net.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and working out the charges on each customs and quarantine clearance request at Gavos. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794370155903013400"
+    },
+    {
+      "n": 5,
+      "send_order": 5,
+      "message_id": "AU-stockwells-1-m2",
+      "contact_id": "AU-stockwells-1",
+      "company": "Stockwells (Stockwell International), Brisbane Airport, QLD",
+      "to": "sales@stockwells.com.au",
+      "subject": "Re: Rate requests at Stockwells",
+      "recipient_tz": "Australia/Brisbane",
+      "mail_provider": "unchecked:stockwells.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the steady flow of rate requests to the Stockwells sales desk. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794377569004002100"
+    }
+  ]
+}

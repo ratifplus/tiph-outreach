@@ -1,0 +1,33 @@
+{
+  "batch_id": "2026-11-18-sg-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "SG-cooper-cargo-1-m2",
+      "contact_id": "SG-cooper-cargo-1",
+      "company": "Cooper Cargo Logistics Pte Ltd, Singapore",
+      "to": "info@coopercargologistics.sg",
+      "subject": "Re: Cooper Cargo's Brunei power plant project",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "unchecked:coopercargologistics.sg",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the detailed rate requests that project work like the Brunei power plant brings to Cooper Cargo. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794358516883013400"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "SG-union-air-freight-1-m2",
+      "contact_id": "SG-union-air-freight-1",
+      "company": "Union Air Freight (S) Pte Ltd, Singapore",
+      "to": "enquiry@uafsin.com.sg",
+      "subject": "Re: Your support for the Red Cross Nepal relief shipment",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "unchecked:uafsin.com.sg",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the volume of co-loading rate requests that Union Air Freight handles at Changi. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794380111188010900"
+    }
+  ]
+}

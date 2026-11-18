@@ -1,0 +1,59 @@
+{
+  "batch_id": "2026-11-18-gb-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "GB-avocet-clearance-1-m2",
+      "contact_id": "GB-avocet-clearance-1",
+      "company": "Avocet Clearance Limited, Manchester",
+      "to": "enquiries@avocetclearance.co.uk",
+      "subject": "Re: Congratulations on the BIFA apprentice award",
+      "recipient_tz": "Europe/London",
+      "mail_provider": "unchecked:avocetclearance.co.uk",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the time that routine rate requests can take away from developing people at Avocet Clearance. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794390333984001200"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "GB-zelir-1-m2",
+      "contact_id": "GB-zelir-1",
+      "company": "Zelir Logistics Ltd, Ashford, Kent",
+      "to": "sales@zelir.co.uk",
+      "subject": "Re: Zelir's BIFA customs compliance shortlisting",
+      "recipient_tz": "Europe/London",
+      "mail_provider": "unchecked:zelir.co.uk",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello Joe,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the rate requests that come with Zelir's growing customs and road freight business. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address in the Kent Invicta Chamber member directory. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794391315353013400"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "GB-simpex-1-m2",
+      "contact_id": "GB-simpex-1",
+      "company": "Simpex Express Limited, Birmingham",
+      "to": "hello@simpex.co.uk",
+      "subject": "Re: Congratulations on the BIFA European award",
+      "recipient_tz": "Europe/London",
+      "mail_provider": "unchecked:simpex.co.uk",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the steady stream of European groupage and part load requests at Simpex. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794405317951001200"
+    },
+    {
+      "n": 4,
+      "send_order": 4,
+      "message_id": "GB-hemisphere-1-m2",
+      "contact_id": "GB-hemisphere-1",
+      "company": "Hemisphere Freight Services Limited, Ipswich",
+      "to": "info@hemisphere-freight.com",
+      "subject": "Re: Your BIFA project forwarding shortlisting",
+      "recipient_tz": "Europe/London",
+      "mail_provider": "unchecked:hemisphere-freight.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and pricing the everyday ocean, air and road requests alongside Hemisphere's project work. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send. Your data is stored in the EU and encrypted, and Tiph cannot read it.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address in the Bonded Warehousekeepers Association member directory. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794405816708010900"
+    }
+  ]
+}
