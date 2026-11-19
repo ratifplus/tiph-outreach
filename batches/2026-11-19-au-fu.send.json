@@ -1,0 +1,46 @@
+{
+  "batch_id": "2026-11-19-au-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "AU-southern-cross-cargo-1-m2",
+      "contact_id": "AU-southern-cross-cargo-1",
+      "company": "Southern Cross Cargo Pty Ltd, Brisbane (Meadowbrook, QLD)",
+      "to": "sales@sccargo.com.au",
+      "subject": "Re: SCC's second Brisbane warehouse",
+      "recipient_tz": "Australia/Brisbane",
+      "mail_provider": "unchecked:sccargo.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the extra rate requests that a second Brisbane warehouse can bring to the Southern Cross Cargo desk. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794448067047010900"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "AU-bri-1-m2",
+      "contact_id": "AU-bri-1",
+      "company": "BR International Logistics Pty Ltd (BRi), Sydney (Hurstville, NSW)",
+      "to": "sales@brint.com.au",
+      "subject": "Re: After the BRi Pathway upgrade",
+      "recipient_tz": "Australia/Sydney",
+      "mail_provider": "unchecked:brint.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the quote, the step that comes before the BRi Pathway platform in your clients' journey. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794471062041010900"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "AU-pro-kinetics-1-m2",
+      "contact_id": "AU-pro-kinetics-1",
+      "company": "Pro Kinetics (Aust) Pty Ltd, Melbourne (South Melbourne, VIC)",
+      "to": "info@prokinetics.com.au",
+      "subject": "Re: Freight Forwarder of the Year finalist",
+      "recipient_tz": "Australia/Melbourne",
+      "mail_provider": "unchecked:prokinetics.com.au",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and quoting quickly alongside perishables work at Pro Kinetics. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794519133864001200"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "batch_id": "2026-11-19-sg-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "SG-trans-global-1-m2",
+      "contact_id": "SG-trans-global-1",
+      "company": "Trans Global (S) Pte Ltd, Singapore",
+      "to": "sales@transglobal.com.sg",
+      "subject": "Re: Your post on perishable air freight",
+      "recipient_tz": "Asia/Singapore",
+      "mail_provider": "unchecked:transglobal.com.sg",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the quick, accurate quotes that perishable air freight from Singapore needs at Trans Global. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794475233278001200"
+    }
+  ]
+}
