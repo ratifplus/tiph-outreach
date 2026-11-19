@@ -19,6 +19,8 @@ Week 1 starts on the first send day under this plan. Working days only (Mon to F
 | 7 | 40 | 5 |
 | 8+ | 50 | 6 |
 
+Temporary override: when config/status.md has a "Catch-up cap override" line covering today's UTC date, its daily and hourly first-email caps replace the table values for that date (Ratif, 19 Nov 2026: "Resume sending and ramp it up to catch up with the week"; Thu 19 and Fri 20 Nov 2026: 30 per day, 5 per hour).
+
 ## Follow-up limits (separate from the ramp caps, Ratif 14 Nov 2026)
 
 Follow-ups are single replies in the thread of our own first email, sent 7 or more days later, so their number per day is about the number of first emails sent a week earlier. They still leave the same Zoho mailbox, and Zoho judges all outgoing mail together (hourly volume, bursts, bounces, complaints), so they get their own limits instead of none:
