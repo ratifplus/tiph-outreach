@@ -285,3 +285,38 @@ UNFINISHED
 - AU | North Queensland Customs Services (good fit, MD Ben McMahon, email known) | missing: dated hook; PG Logistics (IFCBAA 16 May speaker) | missing: website; Blueprint Global (4PL, likely buys freight rather than quotes) | fit doubtful
 - AU | email known, no dated hook: JB Kline, TWG, Stokes and Bell, Rodinia, Westlink, Elto Freight, Freight Connections TAS, Customs Brokers Pty Ltd / WWCF
 - HK/SG | Lapton, Cargoholic, AE Cargo (HK), WHL Logistics, AM Global, ACS Freight (SG) | email known | missing: dated hook
+
+## Run of 19 Nov 2026 (prep, 21Z): 9 of 25 written (US 7, UK 2); AU, HK, SG gave none
+
+NEW / PRODUCTIVE SOURCES
+- NCBFAA eBriefing pages base to /21 all read 19 Nov 21Z; USED UP until the next issue (about 20 Nov). Page numbers shift weekly as issues are added. Hand-built ncbfaa.org URLs are refused at first, then fetch later in the same session: retry rather than spend searches.
+- importinfo.com / importgenius.com importer pages reveal a company's email domain, which then lets an allowed_domains search surface its site (found Affinity Shipping).
+- Repeatable US hook: small brokers posting dated advisories (Nov 2026) on CBP's stricter importer of record / CTPAT-validated broker rule effective 5 Jan 2027 (used for IFF). Check blogs of backlog brokers that publish an email.
+- Company careers pages with quote/pricing roles: search "careers" + freight forwarder + "pricing" OR "quotations executive" with job boards excluded (found Uniexpress).
+- HAFFA site (haffa.com.hk) fetches, including 2026 press releases; 60th-anniversary closing ceremony 27 Nov 2026 (photo album may name members). Descartes general news (descartes.com/news-events/general-news) fetches.
+- JCtrans weekly202638 fetches by hand-built URL (US joins BMI Brave Motion Oldsmar FL, BCS Global Houston, WELL Worldwide Energy Logistics Houston, no sites; SG RESHETH GLOBAL FREIGHT PTE LTD 18 Sep 2026). weekly202647 still refused/unpublished at 21Z.
+
+DEAD ENDS (19 Nov 21Z)
+- US: Airforwarders Association new members (newest 2025), Florida Trend / LABJ / Top Workplaces Bay Area and Atlanta, SupplyChainBrain 100 Great Partners, FCBF golf and Port Laredo summit pages, acquisition/network-join/chamber/new-office/CTPAT/pricing-job searches; FMC lists nothing after 16 Nov. members.ncbfaa.org directory is a form.
+- UK/AU: Clutch UK city lists and bifa.org new-members by hand-built URL (refused), Greater Birmingham Chambers news USED UP, FTA homepage news and ANZSL conference pages (no sponsor names in text), Thames Valley and Hereford & Worcester Chamber awards, IoE International Trade Awards 2026, Shipping Australia new members, BIFAlink Sep 2026 (metadata only; Nov not indexed), generic AU searches.
+- HK/SG: Breakbulk Asia USED UP (only Megaton, already contacted); AM Global news page empty; ALMAC 2026 attendee list only page 1 readable.
+
+UNFINISHED
+- US | A1 Worldwide Logistics (North Miami, 10-49 staff, info@a1wwl.com on contact page, MX Proofpoint) | hook founder FIU SBDC Entrepreneur of the Year (article 19 May 2026, at cutoff) | missing: newer hook
+- US | Total Logistics Resource (shiptlr.com, bd@shiptlr.com, MX Microsoft 365) | CTPAT/importer of record articles 12 Nov 2026 | missing: HQ city, size, ownership
+- US | Atlanta Customs Brokers (ship@ published) | homepage "We have moved to 4777 Aviation Parkway", undated | missing: move date
+- US | Celeris Global (no address/size on site), Southern States Forwarding (New Orleans, NCBFAA 13 Nov, no site), Boston Mountain Customs Brokerage (NCBFAA 6 Nov, no site), NDA Logistics (Hawthorne CA, ndalgx.com not surfaced), Unity Customs Brokers (site unreadable)
+- AU | Navia Freight (exports@naviafreight.com, Sydney office page, MX Microsoft 365; hook TCI Navia JV 18 Aug 2026) | held back: 15 offices in 5 countries, likely over 300 staff, own tech platform
+- AU | Clarke Global Logistics (enquiry@clarkeglobal.com.au) | missing: dated hook (SEO news only)
+- UK | KWL Logistics Felixstowe (kwlquote@kwllogistics.co.uk; news 2024), Universe Logistics (info@unvs.co.uk; undated posts) | missing: dated hook
+- HK | Golden Jet Freight Forwarders Ltd (chairman Gary Lau is HAFFA Chairman; remarks at HAFFA-supported ALMAC 2026 seminar 16 Nov 2026, haffa.com.hk/en-HK/Page/Default.aspx?id=3107) | missing: website and email (goldenjet.com is an unrelated Canadian firm)
+- HK | HAFFA Executive Committee 2025-27 firms unchecked: Hentrans, Bollyman, CTI Logistics HK, Diversified Freight, Easyway, Forward By Norman, NAF Global, U-Ocean, OA Cargo
+- HK | Vinflair (only email Cloudflare-obfuscated; HKTDC 26-50 staff, no email)
+- SG | PAL Line (sales@palline.com.sg) | missing: dated hook. Unused Clutch SG domains: aspac-aircargo.com.sg, bestglobal.com.sg, lchlogistics.com
+- SG/HK | WHL, AM Global, ACS Freight, Cargoholic, AE Cargo (site may be compromised), Lapton (robots), China Freight HK (site down), Sky Leader (SAAA page refused, no site): re-checked 19 Nov 21Z, still no dated hook
+
+REJECTED (19 Nov 21Z)
+- Valls International, Robert F. Barnes CHB, LG Cargo Clearances, AIRGO Worldwide, Production Freight, Affinity Shipping (USA), IFF Inc, Uniexpress, Jordon Freight (all emailed in 2026-11-19-mixed-5)
+- US: Exim Americas (Indian group), Pax (duty-drawback tech), DIMAR, Adhoc, Pan CHB (robots), Fried-Sped (German group), Green Light (Canadian), Camili (Mexican group), Suarez Brokerage (site spam), ANA Link (form only), Applied Freight Solutions (CargoWise consultancy), SMN (truck brokerage), Transitify and Allister Lines (Cloudflare emails), TGP (Trans Global Projects group), Imago (placeholder site), Harris CHB and Clear Customs (no site), Nowlun (Egyptian platform), Phoenix International (871 staff), WB Skinner (2019 hook), K&R International Services (not clearly a forwarder), eShipping (2024 hook), Charles Kendall (UK group)
+- UK/AU: Delsol (about 1m turnover), J. S. Forwarding (no site), Specific Freight, Customs Brokers Pty Ltd, Synergy Freight (third check, no hook), Fintran (biosecurity), CargoMaster (Cloudflare email), Superior Freight (2025 hook)
+- HK/SG: KC Intl Logistics SG (Korchina, Korean group); see hksg notes for others
