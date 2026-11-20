@@ -42,7 +42,7 @@ Move up a week only if the previous week had: zero spam complaints, no Zoho warn
 - Send windows (UTC, adjust for daylight saving): APAC 00:00 to 07:00, Europe/UK 07:30 to 15:30, USA 13:30 to 21:00.
 - Rotation is a preference, never a block (Ratif, 16 Nov 2026: "We need to be maxing 20 per day new outreaches this week regardless"): prefer not to send 3 in a row to the same country or the same email provider domain, so markets stay mixed through the day, but if every eligible email would break that, send anyway. (Was a hard rule: never more than 2 in a row to the same country or provider; country part waived while only one market was live, Ratif 18 Oct 2026.)
 - Never two contacts at the same company on the same day.
-- Americas reserve (Ratif, 20 Nov 2026): about a third of each UTC day's first-email cap, round(D / 3) where D is the cap in force that day so it grows with every ramp week (30 gives 10, 40 gives 13, 50 gives 17), is kept for recipients in America/* time zones until no approved Americas first email can still be in office hours that UTC day, because the UTC day starts in APAC office hours and the cap used to be gone before US offices opened. Exact rule in config/status.md, "Americas reserve".
+- Regional reserve (Ratif, 20 Nov 2026): Europe and the Americas each keep round(D / 3) of each UTC day's first-email cap (D is the cap in force that day, so it grows every ramp week: 30 gives 10 each, 40 gives 13, 50 gives 17) until that region has no approved first email that can still be in office hours that UTC day, because the UTC day opens in APAC office hours and APAC used to take the whole cap before London and the US opened. Exact rule in config/status.md, "Regional reserve".
 
 ## Stop rules (pause all sending and alert Ratif)
 
