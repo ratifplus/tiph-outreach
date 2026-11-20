@@ -1,0 +1,18 @@
+{
+ "date": "2026-11-20",
+ "cap": 30,
+ "updated_at": "2026-11-20T13:41Z",
+ "rule": "Even split of the first-email cap across APAC, Europe, Americas; unusable slots go to the other regions; each email sent only in its recipient's office hours (config/status.md, Daily regional plan).",
+ "sent_today": {
+  "APAC": 27,
+  "Europe": 1,
+  "Americas": 2
+ },
+ "allocation": {
+  "APAC": 27,
+  "Europe": 1,
+  "Americas": 2
+ },
+ "unfilled": 0,
+ "planned": []
+}
