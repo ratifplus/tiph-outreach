@@ -1,0 +1,98 @@
+{
+  "batch_id": "2026-11-20-us-fu",
+  "from": "hello@tiph.agency",
+  "mailFormat": "html",
+  "emails": [
+    {
+      "n": 1,
+      "send_order": 1,
+      "message_id": "US-compass-logistics-marine-1-m2",
+      "contact_id": "US-compass-logistics-marine-1",
+      "company": "Compass Logistics & Marine LLC (CLM), Fort Lauderdale, FL",
+      "to": "quotes@compasslogisticsmarine.com",
+      "subject": "Re: CLM's Best Partner Award and your quotes desk",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "unchecked:compasslogisticsmarine.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and how it could support the dedicated quotes desk at CLM. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794584341296010900"
+    },
+    {
+      "n": 2,
+      "send_order": 2,
+      "message_id": "US-imperial-freight-brokers-1-m2",
+      "contact_id": "US-imperial-freight-brokers-1",
+      "company": "Imperial Freight Brokers, Inc., Doral (Miami), FL",
+      "to": "sales@imperialfreight.com",
+      "subject": "Re: Imperial Freight Brokers and the NCBFAA board",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "unchecked:imperialfreight.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the wide range of customs, trucking and warehousing requests Imperial Freight Brokers has to price. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794585375332013400"
+    },
+    {
+      "n": 3,
+      "send_order": 3,
+      "message_id": "US-green-worldwide-1-m2",
+      "contact_id": "US-green-worldwide-1",
+      "company": "Green Worldwide Shipping, LLC, Tacoma (Seattle office), WA",
+      "to": "seattle@greenworldwide.com",
+      "subject": "Re: Green Worldwide's fourth Great Place to Work certification",
+      "recipient_tz": "America/Los_Angeles",
+      "mail_provider": "unchecked:greenworldwide.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and taking repetitive quoting work off the desks of the team at Green Worldwide. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794588611484013400"
+    },
+    {
+      "n": 4,
+      "send_order": 4,
+      "message_id": "US-approved-freight-forwarders-1-m2",
+      "contact_id": "US-approved-freight-forwarders-1",
+      "company": "Approved Freight Forwarders, City of Industry",
+      "to": "info@approvedforwarders.com",
+      "subject": "Re: Approved Freight Forwarders in the 2026 Top 100 3PLs",
+      "recipient_tz": "America/Los_Angeles",
+      "mail_provider": "unchecked:approvedforwarders.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the rate requests for consolidated freight to Hawaii, Alaska, Guam and Puerto Rico that Approved Freight Forwarders prices. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794599765977001200"
+    },
+    {
+      "n": 5,
+      "send_order": 5,
+      "message_id": "US-wen-parker-1-m2",
+      "contact_id": "US-wen-parker-1",
+      "company": "Wen-Parker Logistics, Inc., Elmont",
+      "to": "info@wen-parker.com",
+      "subject": "Re: Wen-Parker in the 2026 Top 100 3PLs",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "unchecked:wen-parker.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the volume of air and ocean rate requests Wen-Parker handles for retail and consumer brands. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794600211721001200"
+    },
+    {
+      "n": 6,
+      "send_order": 6,
+      "message_id": "US-721-logistics-1-m2",
+      "contact_id": "US-721-logistics-1",
+      "company": "721 Logistics, LLC, Philadelphia",
+      "to": "info@721logistics.com",
+      "subject": "Re: 721 Logistics in the JOC PhilaPort section",
+      "recipient_tz": "America/New_York",
+      "mail_provider": "unchecked:721logistics.com",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the mix of brokerage, ocean and air requests 721 Logistics prices in Philadelphia. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794600633142001200"
+    },
+    {
+      "n": 7,
+      "send_order": 7,
+      "message_id": "US-pace-global-1-m2",
+      "contact_id": "US-pace-global-1",
+      "company": "Pace Global Logistics LLC, Chino / Brea, California (Los Angeles area)",
+      "to": "pace@pacegl.com",
+      "subject": "Re: The AirRate.com launch",
+      "recipient_tz": "America/Los_Angeles",
+      "mail_provider": "Google Workspace",
+      "html": "<div style=\"font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10pt; color: #222222\"><p style=\"margin:0 0 14px 0\">Hello,</p><p style=\"margin:0 0 14px 0\">Last week I wrote to you about Kazinga and the ocean, trucking, customs and fulfilment requests that still need pricing by your team at Pace Global Logistics. It uses AI to read each incoming request, prices it from your own tariffs and margin, and drafts the reply for your team to check and send.</p><p style=\"margin:0 0 14px 0\">Would a 20-minute demo in English over the next couple of weeks be useful?</p><p style=\"margin:0 0 14px 0\">Kind regards,<br>Ratif Ssemujju<br>Tiph Ltd, 128 City Road, London EC1V 2NX, United Kingdom<br>Company No. 17199579<br><a href=\"mailto:hello@tiph.agency\">hello@tiph.agency</a> | <a href=\"https://tiph.agency/products/kazinga\">https://tiph.agency/products/kazinga</a></p><p style=\"margin:18px 0 0 0; font-size: 8pt; color: #888888\">I found your address on your website. <a href=\"mailto:hello@tiph.agency?subject=Unsubscribe\" style=\"color:#888888\">Unsubscribe</a> and we won't email you again. <a href=\"https://tiph.agency/privacy-policy\" style=\"color:#888888\">Privacy policy</a></p></div>",
+      "original_zoho_message_id": "1794610029534002100"
+    }
+  ]
+}
