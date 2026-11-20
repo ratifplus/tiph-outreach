@@ -91,12 +91,14 @@ Written and read by the prep run. Purpose: save web searches. Leads here were fo
 - HK | 456 Logistics Ltd (456logistics.com) | on HKPC TPLSP list as at 9 Oct 2026 | missing: email (homepage fetch refused)
 - HK | VICO Shipping / VICO Logistics | email known; only own marketing content as hook; may be over size band
 - HK | Vinflair Logistics (Cloudflare email), Fairate Express (pages error), CATI Global / OA Freight (HKPC FILAS list 9 Oct 2026, no site found), JSD Logistics, VINS Logistics, Orion Express (HKPC, unchecked); JCtrans names without sites: SAI Logistics, Oneglobe, Shelcia, Last Mile Express, Velonex
-- SG | ACS Freight Services (enquiry@acsfrt.com.sg), AM Global (an@ and cm@amglobal.com.sg) | missing: dated hook
+- SG | AM Global (an@ and cm@amglobal.com.sg) | missing: dated hook
 - SG | AnTs Logistic (SAAA new member Jul-Sep 2026) | missing: published email on own site
 - SG | Alliance 21 (a21.com.sg) | CEO on SAAA Council 2026-2028 | missing: email (site JS-only, three runs)
 - SG | Sky Leader Freight, KC Intl Logistics Singapore (SAAA event 22 May 2026), Skyquick International, Silk Express, Highlight International (robots), Halcon Primo (held back: size), LSA Global, Viesman, 3FM, Diaboss Container Line, ATA Logistics, AOCEAN | missing: website/email or hook
 
 ## Rejected (do not research again)
+
+- 20 Nov (15Z): ACS Freight Services, SMP Global, Sealand Project Line (SG), BGI Worldwide Logistics, Charles M. Schayer & Co. (US) (all emailed in 2026-11-20-mixed-5); other rejects of this run are listed in its section at the end.
 
 - 20 Nov (06Z): AAW Global Logistics, Bluestar Global Logistics, Seaport Freight Services, Envio International, Hexagon International Freight, Banks & Lloyd, S.J. Stile Associates (all emailed in 2026-11-20-mixed-3); US: A Customs Brokerage (form only), Highland Forwarding (no email, nothing after 2019), Cargo Services Inc (OIA Global, Apr 2026), Central Cargo NA (Italian group), EFW (Estes), Commodity Forwarders (Kuehne+Nagel), Forward Logistics (trucking), Argents and Palisades (warehousing), Pegasus Maritime, ARI Shipping, Gridiron, Dartrans (no email/hook), Atlanta Customs Brokers and WEST Forwarding (fourth check, no dated hook), Casey Overseas (robots); UK: Caledonian Freight (form only), BBL Group (French group), Avrio (US), Isca, W Saunders, Grange, AFS Global, Mersey Forwarding, MAS, Peartree, NV Cargo, Brunel Shipping, FLS Group, Atlantic Freight (no dated company news), Jan de Rijk UK, EMO Trans UK, CustomsLink (Stena), Express Global UK (Cosulich) (groups), Freightways, Malco, Mairon (hauliers), Bethan (consultancy), and the UK near-misses Viamaster, Grace Overseas, Beckchoice, TCB, Eagle International, Freight Agency, MIES, We Ship Global, Phaon, Pinnacle (no new dated post, 20 Nov batch search); AU: MF Freight (now Ofload), Clique Logistics (domestic 4PL, Cloudflare email), Seatram, Triways, Valsecchi, Meridian Freight, MYC, Express-Link, efm, R.L. Felton (no dated hook); HK/SG: WM Logistics SG (HK group), Leader Mutual HK (Taiwan group), Cargoport SG (CFS operator), General Cargo Asia HK, Global Airfreight SG (latest news Mar 2026), G.T. Freight SG, TrueLog SG, Ensign Freight HK (201-500), Worldtrans HK (only 2018 item), Global Container Freight SG, RWSolutions HK, Air Sea Broker HK, Wangfoong HK, The One Group SG, Paltrans, Quickflo, GGL SG.
 
@@ -530,7 +532,6 @@ Notes: dns.google MX lookups refused again (permission prompt), all MX unchecked
 
 ### Unfinished leads (email known unless noted; missing a dated hook after 20 May 2026 unless noted)
 - US | ILS Inc (ilsinc.net, Carson CA, family-owned since 1995, info@ilsinc.net) | hook, size
-- US | BGI Worldwide Logistics (bgiworldwide.com, Rancho Dominguez CA; sales@bgiworldwide.com on /contact-us/new-york/; Clutch 10-49) | hook, ownership
 - US | JDF International Transport (jdftransports.com, Timonium MD, est. 1991, info@jdftransports.com) | hook (footer 2022)
 - US | Worldwide Cargo Services Inc (Lawrence NY) | joined Aerocean Network (aeroceanetwork.net post, undated) | date, website, email
 - US | Serra International | President won NY/NJ FFFBA 2026 Captain of Industry (8 Jun 2026) | published email (earlier rejected for none)
@@ -739,3 +740,169 @@ HK | A&G Logistics (alan@ and kam@anghk.com, also in the Maritime Hub directory)
 - WebSearch with media domains in allowed_domains (businesstimes.com.sg, straitstimes.com, theedgesingapore.com, vulcanpost.com, sbr.com.sg, todayonline.com, channelnewsasia.com) returns HTTP 400 from the proxy.
 
 #### Searches used: 35 of 35 (including 2 that the proxy rejected)
+
+## Run of 20 Nov 2026 (prep, 15Z): 5 of 25 written (SG 3, US 2); AU, UK and HK gave none; about 165 searches
+
+Written in 2026-11-20-mixed-5. dns.google MX worked for the US agent (BGI, Schayer: outlook) and was refused for SG. New lead: AU | Hunter Cargo and Customs (hccnewcastle.com, Newcastle NSW, family-owned since 1986, owners Ashanthi and Wayne Kruger since 2013) | Freyt World story 22 Jul 2026 (per UK agent, verify URL and date) | missing: email (site fetch refused on provenance; surface hccnewcastle.com with an allowed_domains search first), confirm hook. DCN awards winners (26 Nov) and the individual finalists list (see AU notes) are the next AU hook source.
+
+### US agent notes
+
+### US research run, 20 Nov 2026 (15Z): 2 qualified, 44 of 45 searches
+
+#### Qualified (in us.jsonl)
+- BGI Worldwide Logistics (Rancho Dominguez CA, 30 staff, founded 1999 by two individuals): careers page advertises a "West Coast Pricing & Inside Sales Coordinator". No posting date is shown; page last modified 29 Oct 2026; the role was live on 20 Nov. sales@bgiworldwide.com (homepage). MX outlook. Caveat: the hook date comes from metadata.
+- Charles M. Schayer & Co. (Denver, est. 1946, family history, Clutch 50-249, 10 offices): its own advisory of 18 Nov 2026 on CBP's foreign importer-of-record interim final rule says "Schayer is a certified CTPAT broker" and asks importers to contact its staff. info@schayer.com (/our-contacts/, which also lists Hollie, Pricing, Kansas City). MX outlook. Caveat: a regulatory post with a company angle, not company news; current ownership is not stated.
+
+#### Unfinished candidates (company | known | missing)
+- US | BOC International (bocintl.com, Boston/Chicago/Cali, since 1993, revenuebase 51-200, info@bocintl.com) | self-produced weekly "Space & Equipment Report" and monthly market reviews (latest Blast #630, 29 Oct 2026); other posts are regulatory | missing: ownership, a real company hook
+- US | Star Asia International (star-asia.com, Decatur GA, forwarder plus customs) | social feed only | missing: email (none on site), hook
+- US | Fort Forwarding (fortintl.com, NY, since 1947, Info@fortintl.com) | no news | missing: hook
+- US | Exhibitions Cargo (Chicago, trade-show logistics, info@exhibitionscargo.com) | no news | missing: hook; fit doubtful
+- US | Herco Freight Forwarders (Miami, est. 1970, ops@hercoinc.com, two named Pricing Specialists) | footer 2016-2018 | missing: hook, ownership
+- US | NCBFAA new members never researched: American Commercial Transport (9 Oct), EM International Freight and DNA Logistics Group (25 Sep), GHMatthes CHB (18 Sep), Micielo Logistics and Vigilant Global Trade Services (10 Jul), Bridgeway International Services and Cotransa (2 Jul), American Clearance Brokerage and On Time Customs Brokerage (17 Jul), Universal Shipping (18 Jun), Evolve Trade Services (5 Jun), OceanAir Logistics (7 Aug; maybe oceanairlogistics.com Miami, robots unreachable) | the hook would be the eBriefing item (stable URL pattern: ncbfaa.org/news-advocacy/monday-morning-ebriefing-details/monday-morning-ebriefing/YYYY/MM/DD/ncbfaa-welcomes-new-members) | missing: websites (guessed domains failed), emails, size
+- US | Open leads re-checked, still no hook: ILS Inc (no news), JDF International (footer 2022), Trans-Overseas (newest post Sep 2025, no openings), R.W. Smith (press page "no press releases", no 90th item), Seacoast Logistics (no news), MIG Express (Cloudflare email, no news), Officium Solutions (placeholder blog), Missionary Expediters (no email on homepage; news latest Feb 2026; MX Logistics Conference Mar 2027 page could be a hook if an email is found on /contact/)
+- US | Not reached (robots or fetch errors): GCI Forwarding, Port Cargo Service, Worldwide Transportation Services (robots unreachable), Schwartz Forwarding (robots disallowed), Gallagher (already in companies.csv), BTX (see rejected), theperishablespecialist.com (permission timeout), atlfreight.com (permission timeout)
+- Note: Santos International (rejected before) has a 50th-anniversary article, but it is dated 23 Feb 2024, so it is still not a hook. Advance Customs Brokers (rejected before for an old hook) has a /news page that surfaced in a Nov 2026 IOR-rule search; it was not opened.
+
+#### Rejected this run
+- Canyon Logistics (trucking: "Drive for us", dispatch@), COGI Logistic Solutions (carrier packet, trucking brokerage, 2-9 staff), Irwin Brown (domain for sale), SBA Global (Radiant), Carmichael International Service (APL Logistics/KWE group since 2008), Vandegrift (redirects to Maersk), W.R. Zanes (redirects to Janel Group), Radix Group (domain for sale), Mid-America Overseas (400+ staff, international), Geo. S. Bush (no news, footer 2023), GCA Global Cargo Alliance / Transborder (part of a 500+ staff organization, rebrand 12 Nov 2026), BTX Global Logistics (42-branch station-ownership network), Gateway Lines (instant online quotes and booking), GGL USA (GGL Singapore subsidiary), AP Customs (one-person broker), FSL Group (truck brokerage), Terra Worldwide (posts 2022, form only), Fleischer CHB (blog latest Nov 2025), Nuco Logistics (no dated posts), Aerodoc (SEO/service posts only), Quick Logistic US (2022 post, tech platform), Page & Jones, OCEANAIR, Sobel, Vector GL, Western Overseas, Shapiro, Cargo International Consolidators (already in companies.csv)
+
+#### Sources
+- PRODUCTIVE: small brokers' own advisories on CBP's foreign-IOR interim final rule (FR 6 Nov 2026, effective 5 Jan 2027) when they add a company angle ("we are CTPAT-validated, we will contact clients"): gave Schayer; Carmichael had the same angle but is group-owned. Find them by fetching /news pages of mid-size brokers directly.
+- PRODUCTIVE: company careers pages that list pricing/quote roles (BGI). They have no posting dates, so cite the page.
+- NEW: revenuebase.ai US lists (customs-brokers-and-freight-forwarders/united-states, /houston, /miami, /atlanta, /chicago, /new-york; customs-brokerage-and-freight-forwarding-companies/united-states/los-angeles). Hand-built city URLs fetched once one search surfaced revenuebase; /seattle failed. Clutch US customs-brokers ?page=3,5,8 and /customs-brokers/denver.md fetch (sponsored blocks give names only).
+- Session note: hand-built company URLs and dns.google MX lookups fetched without a surfacing search for most of this run; the last few (atlfreight, gallaghertransport, btxglobal, theperishablespecialist) hit permission timeouts.
+- USED UP: NCBFAA eBriefing new-member items 20 May to 6 Nov 2026 (pages /2-/19 read; only the unresearched names above remain); IACAC Pallet Jul and Sep 2026 (only GGL, Chicago Express); OceanX news (GGL, ExFreight); Aerocean (no US); Project Cargo Network news archive Jun-Nov 2026 (no US members); Magaya press releases (nothing after Mar 2026 except a research report).
+- DEAD: allowed_domains "2026 news" batch over the open-lead domains (the goportsmouthnh chamber site filled all results; leave chamber domains out); IEEPA/CAPE company-angle searches (SEO guides, law firms); network new-member searches; President's E Award; forwarder-of-the-year searches; Top Workplaces 2026; Inc 5000 and fastest-growing; family-owned acquisition news; Paylocity/ATS pricing jobs (known names); anniversary/centennial searches; bizjournals relocation; Global Produce & Floral Show exhibitors; JCtrans weekly202647 (still client_error); Doral Chamber (old posts); ChamberMaster member-news search; GoFreight/Magaya/Descartes customer stories; Serra International email search (mapquest only); NY/NJ FFFBA awards (individuals, Serra used); sports-sponsorship search (Rock-it, Gateway Lines); association new-member search; regulations.gov docket (proxy 403, page client_error); international trade awards search.
+
+#### Searches used: 44 of 45
+
+### AU agent notes
+
+### AU research run, 20 Nov 2026 (15Z): 0 qualified, 40 of 45 WebSearch calls (one errored: allowed+blocked domains together is invalid)
+
+#### Qualified
+- None. au.jsonl is empty.
+
+#### Unfinished candidates (company | known | missing)
+- Hearn Logistics (hearnlogistics.com.au, Chipping Norton NSW; family-owned, est. 1988 by David Hearn; Clutch 10-49; info@hearnlogistics.com.au on homepage; MD David Hearn, Ops Scott Hearn, Sales Leigh Hearn) | no news on site (copyright 2016) | dated hook
+- Pegasus International Logistics (pegasusint.com.au, Port Adelaide SA; "100% South Australian owned and independent", in-house licensed broker; leon@pegasusint.com.au on /about-us) | no dated item | hook, size
+- Gforce Freight (gforcefreight.com.au, Lidcombe NSW; Clutch 50-249; info@gforcefreight.com.au) | only event post is SESSION AU Jul 2025; looks domestic/parcel-heavy | hook, fit
+- Universal Customs Brokers (ucbrokers.com.au, Bibra Lake WA + Braeside VIC; est. Sep 1997; sole director Emilio Mollica) | contact form only, no email; no news | email, hook
+- Swift Customs Services (swiftcustoms.com.au, Brisbane + Perth; swift@swiftcustoms.com.au on homepage) | no news (page 2018) | hook
+- AMAC Customs Services (amaccustoms.com.au, South Fremantle WA PO box; aaron@amaccustoms.com.au on /about-us/) | site 2020, no news; tiny | hook
+- Searic International (searic.com.au, Aspley QLD; family-owned, 30+ yrs; info@searic.com.au) | "latest" section empty | hook
+- Vantage Freight Services (vantagefreight.com.au, Redfern NSW; family-owned 25 yrs) | no email, no news | both
+- J.N. Allen & Co (jnallen.com.au, Sydney CBD; est. 1972, 100% Australian owned) | email Cloudflare-hidden; no news | email, hook
+- Associated Customs & Forwarding Services (Matraville NSW; est. 1970; 50-249 per Clutch/The Manifest) | website not found | site, email, hook
+- Clutch AU p7 / Sydney p3 names without domains: Lloyds Shipping Australia (Revesby, 10-49), UniAir Cargo (Mascot, 10-49), Buy Global International (Aspley), C & H Freight (Tullamarine, chfreight.com.au), STS Logistics (Auburn, stslogistics.com.au), Romann Logistics (romannlogistics.com.au) | not checked
+- FJT Logistics | re-checked: Nov 2026 News Brief (19 Nov 2026, 25th anniversary, new Perth/Brisbane managers) confirmed; still no plain email anywhere (newsletter archive, Nov brief, Pangea profile pangea-network.com/freight-forwarder/fjt-logistics-pty-ltd/hq-melbourne/, carbonneutral partner page all show none) | plain email
+- Tayper | only newsletter found is from 2015 (tayper.com.au/july-newsletter/, page also carries pharma spam text) | hook
+- Townsville Customs & Forwarding | Port of Townsville listing is from 2021; no 30th-anniversary item found | hook
+- DCN 2026 awards individual finalists (22 Oct 2026 list) have no employers given: Customs Broker of the Year individuals Christopher Trec, Eric Dao, Nicole Jarrett; Young Achievement Abby Meng, Doreen Vrankar, Jack Maguire, Tim Ryan; Women in Shipping finalists Bernadette Habkouk, Clare Grandison, Eunice Marie Garte, Karlie Mucjanko, Kat English, Pia van Wyngaard, Rouba Barakat, Suzette van der Heijden. A small forwarder employing one of them would have a strong dated hook (finalist 22 Oct 2026; winners 26 Nov). One name search found nothing. Worth rechecking after the 26 Nov awards night, when winners' firms post about it.
+
+#### Rejected this run
+- Transolve Global (Sydney, bulk-liquid/flexitank): "now proudly part of Toll Group's Global Forwarding division" (transolve.com.au/about-us/)
+- Interfreight Logistics (named in heavyliftpfi 28 Sep 2026 Henderson WA to Brazil move): HQ Limassol, Cyprus
+- Tomax Logistics Australia: multi-country Tomax Group; newest newsletter Issue 189, 23 Jan 2026
+- Cable International: already in companies.csv (NAP join 24 Jul 2026)
+- White Knight Global Logistics: newest post ~Mar 2024
+- Platinum Freight Management: no email published (phone only); no 2026 news
+- Century Customs, Commercial Freight, ICE Cargo, Loynes, IFC, Pro Kinetics: already contacted
+- Optim Global Logistics / AFI Logistics: only hook is 2026 Tasmanian Freight & Logistics Forum sponsorship, and the forum was held before the cutoff (Mar/Apr 2026)
+- Northline: large domestic carrier
+- Oxen, Regroup, Spark, Pacific Air Cargo, Pure Global, Selsby, Woodford, Tradewise, Total Maritime, Port Air, Trans Global Projects: already rejected in leads.md
+
+#### Sources
+- USED UP: FTA directory offset 200000 (O-Z) read this run. Per leads.md (19 Nov 11Z) the whole directory had already been read and the O-Z domains batch-searched; the new names it gave had no dated items in two allowed_domains batches.
+- DCN 2026 finalists article (thedcn.com.au/news/finalists-announced-for-2026-dcn-australian-shipping-maritime-awards, 22 Oct 2026) fetches. Company finalists are all used; individuals have no employers listed (see above). DCN "Spotlight on" pages profile 2025 winners only.
+- heavyliftpfi Australasia (www.heavyliftpfi.com/news/regions/australasia/ with trailing slash) fetches after a search with allowed_domains heavyliftpfi.com. Read to 4 Aug 2026; no new small AU forwarders (Bullocks, CAI, Freightplus already used).
+- Clutch AU freight-forwarders ?page=7 and /sydney?page=3 read (names above).
+- DEAD this run:
+  - FTA newsdetails hand-built IDs (41724 refused: PROVENANCE_REQUIRED); FTA "new member" / Out & About searches (return 2025 or early-2026 reports); FTA careers page (no ads); FTA annual-conference page
+  - state export award finalists (no forwarders); local business awards search; IFCBAA sponsors search (US results)
+  - network new-member searches (GLA 2025, NAP Jul 2026 Cable/Oriental only, Pangea AU = FJT and Northline only, Conqueror nothing AU)
+  - airfreight.news; ASCLA/SCLAA Issuu (newest Apr 2026); MegaTrans 2026 (large exhibitors, no directory link); community-newspaper profiles (Austral-Asia Mar 2026)
+  - com.au-wide "welcome"/"moved"/"anniversary" queries (return already-contacted firms and SEO pages)
+  - adzuna.com.au (robots); JCtrans weekly202647 (client_error); heavyliftpfi hand-built URL without trailing slash refused
+- MX lookups: none run (no qualified companies).
+
+#### Searches used: 40 of 45
+
+### UK agent notes
+
+### UK research run, 20 Nov 2026 (15Z): 0 qualified, 30 of 30 searches used
+
+#### Qualified
+- None. uk.jsonl is empty.
+
+#### Unfinished candidates (company | known | missing)
+- Quick Cargo Ltd (quickcargo.com, Colnbrook/Heathrow, privately owned, est. 1980, MD Rachel Harding; hello@quickcargo.com on homepage) | AON network join post (aeroceanetwork.net/quick-cargo-limited-in-the-uk-joins-aeroceanetwork/) has no date and is not in the AON feed back to Feb 2026; /insight/ has SEO posts only (latest 29 Oct 2026) | dated hook, CH
+- WS Logistics Ltd (wslogistics.com, Felixstowe + Bromborough/Liverpool, AEO, since 2003, revenuebase 11-50; enquiries@wslogistics.com on homepage) | no news section | hook, CH, ownership
+- Associated Freight Services (associatedfreight.co.uk, Feltham, MD Garry Moriarty, 30+ yrs, BIFA; sales@ / info@afs-lon.co.uk on post pages) | newest post 26 Mar 2025, sponsorship post Feb 2024 | hook, CH
+- AOG Worldwide Ltd (aogworldwide.co.uk, Christchurch Dorset, Clutch 2-9; ops@aogworldwide.co.uk in footer) | Christchurch Business Awards 2026 Outstanding Customer Service, post 3 Mar 2026 (before cutoff) | newer hook, size
+- AGI Global Logistics (agi.global, Bristol) | now has plain office emails on news posts (e.g. miltonkeynes@agi.global on /news/agi-milton-keynes-opens); only company news is the UK Transport Awards win, 15 Apr 2026 (before cutoff); other 2026 posts are SEO/regulatory | dated hook
+- Delsol International (Sandycroft; Sales@delsolinternational.com) | launched Jul 2024, a division of Delivery Solutions (Delsol) Ltd (North Wales delivery firm, so ownership is questionable); Quick Quote is a form, not instant pricing | dated hook
+- Oak International Freight Ltd (oakinternational.co.uk, Bristol, firmbase 5 staff, inc. 1997), Dylo (dylo.com, Bristol, 8), Richard James International (Bristol, 18, South Atlantic islands), SITIR (U.K.) (sitir.com, Nottingham, 7, est. 1984), Kyfi (kyfi.com, Glasgow, 8), SBM Global Logistics (sbmgltd.com, Glasgow, 6), HS Global (hsglobal.ltd, Leicester, 7), G&V Logistics (gnv-logistics.com, Leicester, 7), Freightnordic (freightnordic.com, Leicester, 19), Coedma Freight (Leicester, 6), Rutland Worldwide (Leicester, 5) | allowed_domains batch searches found no dated company items | hook, email
+- Clutch UK freight-forwarders list, not yet researched: Kite Freight Services (London, 10-49), DG International (Billericay, 50-249), Apex Cargo (Leicester, 10-49), Whitehouse Solutions (Halstead, 10-49), Barrington Freight (Basildon, 2-9), Enkel Project Logistics (London, 2-9), FPF Global (2-9), GR Freight Services (Hounslow) | guessed domains did not surface; need real domains
+- AON UK members (undated join posts): Ecosphere Global Logistics (Feltham), Freedom Logistics UK (Manchester/Ashford), CY UK Ltd (Birmingham) | no own websites given | site, email, hook
+- Hunter Cargo & Customs (Freyt World story 22 Jul 2026, OOG HK to Sydney, MD Ashanthi Kruger) | probably AU, not UK. Pass to AU.
+
+#### Rejected
+- Bower Green: newest news still 11 Feb 2026; email Cloudflare-hidden on its own site
+- Trade Freight International / ILC: ILC news has dated items (Exporting for Growth 18 Nov 2026, Racing for Life 13 Nov, JOSCAR 7 Aug, Open Afternoon 10 Jun 2026), but every email on tradefreight.co.uk (contact, privacy, posts) and ILC is Cloudflare-protected. Final drop unless a plain address turns up.
+- Anchor Freight: news index still ends at 23 Mar 2026; vacancy and people pages undated (modified 2025)
+- Interfreight UK: only news item is IFE 2026 (March); mentions "the group" / Armstrong Logistics
+- Freight Box Global: site sells an "Instant Quote" tool (freightboxglobal.com/instant-quote/); entity incorporated 16 Dec 2025
+- Osprey Shipping Ltd (Portishead; Armed Forces Covenant signed 12 Aug 2026): heavy-lift barge owner / marine contractor, not a forwarder
+- EBISS UK: art fair / events shipper; art-fair pages are undated (2024 events)
+- Freightserve (Sunbury): recruitment agency; the Pricing Coordinator job is for a client
+- Albatrans UK (Italian group), Ace Express Freight (Ireland), Translink Express (pallet haulier), A. Salvatori & Son (haulier/Palletways), Clarusto (already in companies.csv), Uniexpress (already in companies.csv)
+- firmbase tech-list tails: D H Freight (0 staff), ALW Logistics (2024, 10 staff), BRC Supply Chain (3 staff), Windward Shipping (shipbroker): too small or not a fit
+
+#### Sources
+- USED UP: firmbase technology-list tails (godaddy, wpforms, cloudfront at offset 100000; only D H Freight, ALW, BRC, Windward, none usable). Freyt World news: p1-2 cover everything from 1 Apr 2026 on, so p3-17 are older than the cutoff (no UK items). BIFA FSA 2026 shortlist (transportmonthly.co.uk copy fetches; every name known). AON (aeroceanetwork.net/feed/?paged=N fetches by hand-built URL, dated): no UK joins Feb-Nov 2026. IFN UK blog (5 names, all known). Freight Midpoint p1 (nothing new after 13 Nov).
+- PARTLY USED: FBJ monthly archives fetch by hand-built URL (fbj-online.com/2026/MM/page/N/). Read this run: 11 p3-4, 10 p4-6, 09 p3-4, 08 p3-4, 07 p1-2, 06 p1-2. Mostly large firms; small UK hits were Clarusto (known) and Salvatori (haulier).
+- NEW: forwardermagazine.com section pages (road-freight, giving-back, customs-clearance, recruitment-training, exhibitions-events) fetch and show dated headlines; mostly hauliers or large firms. Homepage, sea-freight and airfreight sections gave server errors. forwardingjobs.com shows no listings (JS).
+- NEW: firmbase city lists (firmbase.co/resources/industry-lists/logistics-companies-in-the-uk-<city>) fetched for glasgow, leicester, edinburgh, bristol, nottingham; southampton/sheffield/hull refused (provenance), slough/coventry client_error. About 1-13 forwarders per city in the top 50.
+- NEW: Clutch UK freight forwarders (clutch.co/logistics/freight-forwarders/uk) fetches: 50 names; domains shown only for the top 18.
+- NEW: gov.uk Armed Forces Covenant business pages (gov.uk/armed-forces-covenant-businesses/<slug>) show date signed, size band and region. These are dated official hooks, but searching gov.uk returns mostly non-forwarders. Forwarders found: World Freight Ltd (signed 13 Mar 2026), FactoryCargo (22 Jul 2026, micro), Berser International Cargo (2024), United Worldwide Logistics (already emailed).
+- DEAD: W&N Yorks chamber directory (only Advanced Forwarding new, no web/email; Zenith/512 pages robots-unreachable); BIFA category/news pages (client_error); UK chamber new-member searches (Suffolk/Essex etc.); club sponsorship searches (Leigh Leopards: G&T Express, Cal Courier; Southampton: AGL parcel software; Swansea: Owens Group); network new-member searches (FPS 2025, ASA no UK date, WTC alliance redirect); Enterprise/business awards 2026 searches (BIFA, Irish); AEO announcement search; pricing-appointment search (recruiters); JCtrans weekly202647 (client_error).
+- Refused (provenance): zen-intl.co.uk, firmbase southampton/sheffield/hull city pages.
+
+#### Searches used: 30 of 30
+
+### HKSG agent notes
+
+# hksg run (20 Nov 2026, 15Z): 3 qualified (all SG), 37 of 40 WebSearch calls
+
+## Qualified (in hksg.jsonl)
+- SG | Sealand Project Line Pte. Ltd. (spl-asia.com) | Breakbulk Asia 2026 exhibitor, stand B34 (18 Nov 2026) | sales@spl-asia.com (spl-asia.com/contact.php) | caveat: about.php title metadata says "WILH LOESCH" (Hamburg forwarder); body text and Breakbulk.com profile (shareholder Sanwar Kanoria, SG HQ, own Hamburg office since 2015) suggest independent. Part charterer.
+- SG | ACS Freight Services Pte Ltd (acsfrt.com.sg) | Singapore Pavilion co-exhibitor, transport logistic / air cargo Shanghai 2026 (24-26 Jun 2026) | enquiry@acsfrt.com.sg (acsfrt.com.sg/contact/). Was an open lead with no hook.
+- SG | SMP Global Pte Ltd (smp-global.com) | same Singapore Pavilion, Shanghai 24-26 Jun 2026 | enquiry@smp-global.com (smp-global.com/about-us/)
+- MX: dns.google refused (permission prompt timed out), so all three are unchecked.
+
+## Unfinished candidates (company | known | missing)
+- HK | CATI Global Logistics (HK) Ltd (Unit 1502 Telford House, Kowloon Bay; IATA CargoLink id 9763) | TWO hooks: JCtrans join 9 Jul 2026 (weekly202628) and HKPC FILAS approval (ref FILAS-26-09-003-P, list as at 9 Oct 2026) | no website or email found (IATA listing has phone only; not in MarDep or HK Maritime Hub)
+- HK | China Freight (Hong Kong) Ltd (chinafreight.com.hk; est. 1996, founder Terence Lai, local HK air/sea forwarder, agent for 15 airlines) | FILAS approval (FILAS-26-09-004-P, list 9 Oct 2026) | email: contact page (?page_id=1622) returns client_error; about page (?page_id=1538) fetches. Ownership of group not stated
+- HK | Aria Supply Chain Ltd | JCtrans join 17 Jul 2026 (weekly202629) | website, email (JCtrans profile client_error, one name search found nothing)
+- SG | Crossover Logistics (Asia) Pte Ltd (UEN 201908234W, 1 Tai Seng Ave, SSIC freight transport arrangement) | Singapore Pavilion Shanghai 24-26 Jun 2026 | website, email; possible link to a "Crossover Group" (epca.eu) not checked
+- SG | Orbita Global Pte Ltd | Singapore Pavilion Shanghai 24-26 Jun 2026 | website, email (no web presence found)
+- HK | JSD Logistics (HK), VINS Logistics, Orion Express (orionexpress.com.hk; robots.txt unreachable) | HKPC TPLSP approvals between 26 Jun and 9 Oct 2026 | sites/emails (searches found nothing)
+- SG | Sky Leader Freight Pte Ltd | SAAA Project IMDD outreach at ITE College East 22 May 2026 (PERSPECTIVES Apr-Jun 2026) | no website; SAAA members-listing gives names only
+
+## Rejected (this run)
+- KC Intl Logistics Singapore: Korchina (Korean group). OA Freight: Guangzhou HQ (oafreight.com/service). Hiap Woon Shipping SG: chartering/port agency, no email, Taiwanese shipowner offshoot. DSM International Shipping SG: chartering. Poh Tiong Choon Logistics: group with independent directors (listed-style), large. FS Freight Systems SG: no email, LFS Global group member. RW Solutions HK: forwarder network operator, not a forwarder. Breakbulk Asia HK/China names (Win Rich, YH Ocean, RH Intl/Dalian Ruihao, Bao Glory, Lynux, Chinaland, Sea Bridge, SevSing): carriers or mainland firms. Top-Trans Expo Logistics (HK): exhibition logistics, mainland group likely (not checked further).
+
+## Sources
+- PRODUCTIVE: transport logistic China joint-pavilions page (transportlogistic-china.com/exhibitors/joint-pavilions) = 2026 show; Singapore Pavilion co-exhibitors: ACS Freight, Kargosmart, Crossover Logistics (Asia), SMP Global, CrimsonLogic, Orbita Global, CCN, Otonomi. Preliminary exhibitor PDF (imgs.tl-c.cn/uploads/editor/20260429/tlC%20preliminary%20list%20202605-EN.pdf) lists HK/SG exhibitors with country: USED UP for HK/SG (HK: Team Well contacted, Top-Trans Expo, CLN, TAC Index).
+- PRODUCTIVE (one): Breakbulk Asia 2026 exhibitor list (asia.breakbulk.com/exhibitors, 192 names) now fully checked for SG/HK: USED UP.
+- HKPC lists: TPLSP and FILAS "as at 9 Oct 2026" PDFs linked from bee.hkpc.org/funding-schemes/tplsp/ (fetches). June 2026 list: bee.hkpc.org/media/mhpfkkta/list-of-successful-applicants_en-62026.pdf (as at 26 Jun 2026). All post-March names now worked; next list probably Jan 2027.
+- JCtrans weekly202621-202630 read for HK/SG (week 22, 26 none; 21 Halcon Primo; 23 JNC; 24 Seven Seas Container Lines (carrier); 25 Highlight; 27 Lovyph; 28 CATI HK + AOCEAN SG; 29 Aria HK; 30 ATA). HK/SG weeks 21-46 now all checked.
+- Singapore Customs STP list now "21 July 2026" (isomer-user-content link on customs.gov.sg STP page); previous public list 13 Nov 2025, so a diff cannot prove a post-20-May certification. Not used.
+- SAAA PERSPECTIVES Jul-Sep 2026: names Anthola Brokers + OTONOMI (sponsors 30 Jul 2026) only; no forwarders.
+- DEAD: APEA 2026 (regional 15 Jul, Singapore 3 Nov: no forwarders); HK NextGen Logistician Awards 2026 (17 Nov 2026, winners from Hactl, DSV, CR Logistics, Cathay); HKPC LPFS list (associations only); HK Customs Elite Enterprise awards 2026 (names not published); Supply Chain Asia Awards 2026 (JS site); HAFFA 60th page (sponsors Hactl/AAHK/AAT), HAFFA competitions (2025, schools); ALMAC 2026 exhibition and participant pages (JS/client_error); hkiacargo market insights (no forwarder features); Security Cargo Network (nothing new for HK/SG); Pangea/PCN/GPLN/GLA HK-SG searches (old); com.sg / com.hk "announce/anniversary" searches (groups, SEO); SG job boards (jobstreet client_error); SME100 2026 (no forwarders); Breakbulk Americas (US firms); SBR awards (groups).
+- Refused: dns.google MX lookup (permission timeout); jctrans.com store profiles (client_error); macaubusiness (robots); linkedin (robots).
+
+## Searches used: 37 of 40
+
