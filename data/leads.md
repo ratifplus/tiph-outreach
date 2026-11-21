@@ -1598,7 +1598,6 @@ Written in 2026-11-21-mixed: Global Intelligent Logistics (UK, VILOG), UK Global
 
 ## Run of 21 Nov 2026 (prep, 07:43 London): 4 of 25 written (UK 2, US 1, HK 1); AU and SG gave none; about 155 searches
 Written in 2026-11-21-mixed-2: Global Cargo (Far East) (HK, ALN-BAM Asia & Oceania Top Agent award 1 Nov 2026), Atlantic International Freight Services (UK, rebrand 14 Oct 2026), RBF Cargocare (UK, Fresh Awards 2026 and RSCL Expo), FTS International Express (US, SCN story 15 Oct 2026).
-Held back (unfinished): US | IGL Logistics Inc. (igl360.com, Charlotte NC, ops@igl360.com on /about/, 21-50 staff) | SCN index lists 'IGL Logistics New Charlotte warehouse' dated 24 Jun 2026, but the post was refused and the company match is unconfirmed | missing: open the post (securitycargonetwork.com/igl-logistics-new-charlotte-warehouse/) to confirm it is igl360.com, MX.
 Watch next: AU FTA Weekly Report 2026/47 (~25 Nov), DCN Awards winners (26 Nov), ACC Shipping Beaujolais Day 2026 post (UK), JCtrans week 47.
 
 ### US agent notes (21 Nov 07:43 run)
